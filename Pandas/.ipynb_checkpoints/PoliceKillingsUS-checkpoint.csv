@@ -1,0 +1,2536 @@
+name,date,race,age,signs_of_mental_illness,flee
+Tim Elliot,02/01/15,A,53.0,True,Not fleeing
+Lewis Lee Lembke,02/01/15,W,47.0,False,Not fleeing
+John Paul Quintero,03/01/15,H,23.0,False,Not fleeing
+Matthew Hoffman,04/01/15,W,32.0,True,Not fleeing
+Michael Rodriguez,04/01/15,H,39.0,False,Not fleeing
+Kenneth Joe Brown,04/01/15,W,18.0,False,Not fleeing
+Kenneth Arnold Buck,05/01/15,H,22.0,False,Car
+Brock Nichols,06/01/15,W,35.0,False,Not fleeing
+Autumn Steele,06/01/15,W,34.0,False,Not fleeing
+Leslie Sapp III,06/01/15,B,47.0,False,Not fleeing
+Patrick Wetter,06/01/15,W,25.0,False,Not fleeing
+Ron Sneed,07/01/15,B,31.0,False,Not fleeing
+Hashim Hanif Ibn Abdul-Rasheed,07/01/15,B,41.0,True,Not fleeing
+Nicholas Ryan Brickman,07/01/15,W,30.0,False,Car
+Omarr Julian Maximillian Jackson,07/01/15,B,37.0,False,Foot
+Loren Simpson,08/01/15,W,28.0,False,Not fleeing
+James Dudley Barker,08/01/15,W,42.0,False,Not fleeing
+Artago Damon Howard,08/01/15,B,36.0,False,Not fleeing
+Thomas Hamby,08/01/15,W,49.0,False,Not fleeing
+Jimmy Foreman,09/01/15,W,71.0,False,Not fleeing
+Andy Martinez,09/01/15,H,33.0,False,Not fleeing
+Tommy Smith,11/01/15,W,39.0,True,Not fleeing
+Brian  Barbosa,11/01/15,H,23.0,False,Not fleeing
+Salvador Figueroa,11/01/15,H,29.0,False,Foot
+John Edward O'Keefe,13/01/15,W,34.0,False,Foot
+Richard McClendon,13/01/15,W,43.0,True,Not fleeing
+Marcus Golden,14/01/15,B,24.0,False,Not fleeing
+Michael Goebel,14/01/15,W,29.0,False,Not fleeing
+Mario Jordan,14/01/15,B,34.0,True,Not fleeing
+Talbot Schroeder,14/01/15,W,75.0,False,Not fleeing
+Robert Edwards,14/01/15,W,68.0,False,Not fleeing
+Jeffrey R. Nielson,14/01/15,W,34.0,False,Not fleeing
+Donte Sowell,15/01/15,B,27.0,False,Foot
+Kavonda Earl Payton,15/01/15,B,39.0,False,Not fleeing
+Quincy Reed Reindl,15/01/15,W,24.0,True,Not fleeing
+Jose Ceja,15/01/15,H,36.0,True,Not fleeing
+Nathan Massey,15/01/15,W,33.0,False,Not fleeing
+Scott Hall,16/01/15,W,41.0,False,Car
+Zaki Shinwary,16/01/15,O,48.0,False,Not fleeing
+Terence Walker,17/01/15,B,21.0,False,Foot
+Pablo Meza,17/01/15,H,24.0,False,Not fleeing
+Daniel Brumley,17/01/15,H,27.0,False,Not fleeing
+Jonathan Guillory,18/01/15,W,32.0,True,Not fleeing
+Carter Castle,18/01/15,W,67.0,True,Not fleeing
+Paul Campbell,19/01/15,W,49.0,False,Not fleeing
+Dewayne Carr,20/01/15,B,42.0,False,Car
+Todd Allen Hodge,21/01/15,W,36.0,False,Not fleeing
+Miguel Angel de Santos-Rodriguez,21/01/15,H,36.0,False,Foot
+Isaac Holmes,21/01/15,B,19.0,False,Not fleeing
+Andrew Toto,21/01/15,W,54.0,True,Not fleeing
+Tiano Meton,22/01/15,B,25.0,False,Car
+Kristiana Coignard,22/01/15,W,17.0,True,Not fleeing
+Robert Francis Mesch,23/01/15,W,61.0,True,Not fleeing
+Demaris Turner,23/01/15,B,29.0,False,Not fleeing
+Jose Antonio Espinoza Ruiz,23/01/15,H,56.0,False,Not fleeing
+Wendell King,24/01/15,W,40.0,False,Not fleeing
+Daryl Myler,24/01/15,W,45.0,False,Not fleeing
+Darin Hutchins,24/01/15,B,26.0,True,Not fleeing
+Orlando Jude Lopez,25/01/15,H,26.0,False,Car
+William Campbell,25/01/15,,59.0,False,Not fleeing
+Jessie Hernandez,26/01/15,H,17.0,False,Not fleeing
+Raymond Kmetz,26/01/15,W,68.0,True,Not fleeing
+Joshua Omar Garcia,26/01/15,H,24.0,False,Car
+David Garcia,26/01/15,H,34.0,True,Not fleeing
+Nicolas Leland Tewa,27/01/15,N,26.0,False,Not fleeing
+Chris Ingram,27/01/15,W,29.0,False,Not fleeing
+Jermonte Fletcher,27/01/15,B,33.0,False,Not fleeing
+Tiffany Terry,27/01/15,W,39.0,True,Not fleeing
+Alan Lance Alverson,28/01/15,W,45.0,False,Not fleeing
+Matautu Nuu,28/01/15,A,35.0,True,Not fleeing
+Cody Karasek,28/01/15,W,26.0,False,Not fleeing
+Ralph Willis,29/01/15,W,42.0,False,Foot
+Alan James,29/01/15,W,31.0,True,Not fleeing
+John Barry Marshall,30/01/15,W,48.0,False,Foot
+Victor Manuel Reyes,31/01/15,H,31.0,False,Not fleeing
+Edward Donnell Bright,31/01/15,B,54.0,True,Not fleeing
+Jacob Haglund,02/02/15,W,17.0,False,Not fleeing
+David Kassick,02/02/15,W,59.0,False,Foot
+Francis Murphy Rose III,02/02/15,W,42.0,True,Not fleeing
+Ledarius D. Williams,03/02/15,B,23.0,False,Foot
+Yuvette Henderson,03/02/15,B,38.0,False,Car
+Dewayne Deshawn Ward,03/02/15,B,29.0,True,Not fleeing
+Anthony Purvis,03/02/15,W,45.0,True,Not fleeing
+Jeremy Lett,04/02/15,B,28.0,False,Not fleeing
+Izzy Colon,04/02/15,H,37.0,False,Not fleeing
+Salvador Muna,04/02/15,H,28.0,False,Car
+Joaquin Hernandez,04/02/15,H,28.0,False,Not fleeing
+Jimmy Ray Robinson Jr.,04/02/15,B,51.0,False,Car
+Markell Atkins,04/02/15,B,36.0,False,Not fleeing
+Paul Alfred Eugene Johnson,05/02/15,W,59.0,False,Car
+Herbert Hill,06/02/15,B,25.0,False,Not fleeing
+John  Sawyer,07/02/15,W,26.0,False,Not fleeing
+James Allen,07/02/15,B,74.0,False,Not fleeing
+John Martin Whittaker,08/02/15,W,33.0,False,Car
+Sawyer Flache,08/02/15,W,27.0,False,Not fleeing
+Vincent Cordaro,08/02/15,W,57.0,True,Not fleeing
+Joseph Paffen,08/02/15,W,46.0,False,Not fleeing
+Larry Hostetter,08/02/15,W,41.0,False,Not fleeing
+Kenneth Kreyssig,09/02/15,W,61.0,True,Not fleeing
+Desmond Luster,09/02/15,B,45.0,False,Not fleeing
+Antonio Zambrano-Montes,10/02/15,H,35.0,True,Foot
+Anthony Bess,10/02/15,B,49.0,False,Not fleeing
+Brian Fritze,10/02/15,W,45.0,True,Car
+Phillip Watkins,11/02/15,B,23.0,True,Not fleeing
+Fletcher Ray Stewart,11/02/15,W,46.0,True,Foot
+Jonathan Larry Harden,13/02/15,W,23.0,False,Car
+Andres Lara-Rodriguez,13/02/15,H,21.0,False,Car
+Richard Carlin,13/02/15,H,35.0,False,Not fleeing
+Matthew D. Belk,13/02/15,W,27.0,False,Not fleeing
+Daniel Mejia,13/02/15,H,37.0,True,Not fleeing
+Jason C. Hendrix,14/02/15,W,16.0,True,Car
+Roy Joy Day,14/02/15,W,51.0,False,Not fleeing
+Lavall Hall,15/02/15,B,25.0,True,Not fleeing
+Howard Brent Means Jr.,15/02/15,W,34.0,False,Foot
+Bruce Steward,15/02/15,W,34.0,True,Not fleeing
+Lawrence Caldwell,16/02/15,W,56.0,False,Not fleeing
+Michael K. Casper,16/02/15,W,26.0,False,Not fleeing
+Cody Evans,16/02/15,W,24.0,True,Not fleeing
+Betty Sexton,17/02/15,W,43.0,False,Not fleeing
+Michael Ireland,17/02/15,W,31.0,False,Foot
+Matthew Lundy,17/02/15,W,32.0,False,Not fleeing
+Douglas Sparks,17/02/15,W,30.0,False,Foot
+Pedro Juan Saldivar,17/02/15,H,50.0,False,Not fleeing
+Janisha Fonville,18/02/15,B,20.0,True,Not fleeing
+Alejandro Salazar,20/02/15,H,,False,Car
+Ruben Villalpando,20/02/15,H,31.0,False,Not fleeing
+Stanley Lamar Grant,20/02/15,B,38.0,False,Not fleeing
+Douglas Harris,20/02/15,B,77.0,True,Not fleeing
+Jason Moncrief Carter,21/02/15,W,41.0,False,Not fleeing
+Kent Norman,21/02/15,W,51.0,False,Not fleeing
+Bradford Leonard,22/02/15,W,50.0,False,Not fleeing
+Jerome Nichols,23/02/15,W,42.0,False,Car
+Daniel Elrod,23/02/15,W,39.0,False,Not fleeing
+Robert Kohl,23/02/15,W,47.0,True,Not fleeing
+Michael Wayne Smashey,23/02/15,W,37.0,False,Not fleeing
+Anthony Giaquinta,23/02/15,W,41.0,False,Foot
+A'Donte Washington,23/02/15,B,16.0,False,Not fleeing
+Joseph Biegert,24/02/15,W,30.0,True,Not fleeing
+Glenn Lewis,25/02/15,B,27.0,False,Car
+Francis Spivey,25/02/15,W,43.0,True,Not fleeing
+Alexander Phillip Long,26/02/15,W,31.0,False,Not fleeing
+David Cuevas,26/02/15,H,42.0,False,Foot
+Amilcar Perez-Lopez,26/02/15,H,21.0,False,Not fleeing
+Rodney Biggs,26/02/15,W,49.0,False,Not fleeing
+Crystal Lee Miley Harry,26/02/15,W,34.0,False,Car
+Ernesto Javiar Canepa Diaz,27/02/15,H,27.0,False,Not fleeing
+Chazsten Freeman,28/02/15,W,24.0,False,Not fleeing
+Deven Guilford,28/02/15,W,17.0,False,Not fleeing
+Thomas Allen,28/02/15,B,34.0,False,Car
+Jessica Uribe,28/02/15,H,28.0,False,Not fleeing
+Cornelius J. Parker,28/02/15,B,28.0,False,Car
+Ian Sherrod,28/02/15,B,40.0,True,Car
+Stephanie Hill,28/02/15,W,37.0,False,Car
+Donald Lewis Matkins,01/03/15,W,49.0,False,Not fleeing
+Charly Leundeu Keunang,01/03/15,B,43.0,True,Not fleeing
+Hung Trieu,01/03/15,A,35.0,False,Not fleeing
+Shaquille Barrow,02/03/15,B,20.0,False,Foot
+Fednel Rhinvil,03/03/15,B,25.0,False,Not fleeing
+Matthew Metz,03/03/15,W,25.0,False,Not fleeing
+Derek Cruice,04/03/15,W,26.0,False,Not fleeing
+Carl Lao,04/03/15,A,28.0,False,Not fleeing
+Tyrone Ryerson Lawrence,05/03/15,B,45.0,True,Not fleeing
+Sergio Alexander Navas,05/03/15,H,36.0,False,Car
+Tyson Hubbard,05/03/15,W,34.0,False,Not fleeing
+Naeschylus  Vinzant,06/03/15,B,37.0,False,Foot
+Andrew Anthony Williams,06/03/15,B,48.0,False,Not fleeing
+Tony Robinson,06/03/15,B,19.0,False,Foot
+Adam Reinhart,07/03/15,W,29.0,False,Not fleeing
+Aurelio Duarte,08/03/15,H,40.0,False,Not fleeing
+Michael McKillop,08/03/15,W,35.0,False,Car
+Monique Jenee Deckard,08/03/15,B,43.0,True,Not fleeing
+Lester Brown,09/03/15,W,58.0,False,Not fleeing
+James Brent Damon,09/03/15,W,46.0,False,Not fleeing
+Cedrick Lamont Bishop,09/03/15,B,30.0,False,Not fleeing
+Anthony Hill,09/03/15,B,27.0,True,Not fleeing
+Jamie Croom,10/03/15,B,31.0,False,Not fleeing
+Christopher Mitchell,10/03/15,W,23.0,False,Not fleeing
+Edixon  Franco,10/03/15,H,37.0,True,Car
+Theodore Johnson,10/03/15,B,64.0,False,Not fleeing
+James Greenwell,11/03/15,W,31.0,True,Not fleeing
+Benito Osorio,11/03/15,H,39.0,False,Not fleeing
+Ryan Dean Burgess,11/03/15,W,31.0,True,Not fleeing
+Aaron Valdez,11/03/15,H,25.0,False,Not fleeing
+Gilbert Fleury,11/03/15,W,54.0,False,Not fleeing
+William Russell  Smith,11/03/15,W,53.0,True,Not fleeing
+Terry Garnett Jr.,11/03/15,B,37.0,False,Not fleeing
+Bobby Gross,12/03/15,B,35.0,True,Not fleeing
+Fred  Liggett,13/03/15,W,59.0,False,Not fleeing
+Andrew Driver,13/03/15,W,36.0,False,Not fleeing
+Antonio Perez,13/03/15,H,32.0,False,Foot
+James Richard Jimenez,13/03/15,H,41.0,False,Other
+Richard Castilleja,14/03/15,H,29.0,True,Not fleeing
+Clifton Reintzel,14/03/15,W,53.0,False,Not fleeing
+Aaron Siler,14/03/15,W,26.0,False,Car
+Troy Ray Boyd,15/03/15,W,27.0,False,Not fleeing
+Justin Tolkinen,16/03/15,W,28.0,True,Not fleeing
+William Dean Poole,16/03/15,W,52.0,True,Not fleeing
+Eugene Smith,17/03/15,W,20.0,True,Not fleeing
+Roberto Leon,17/03/15,H,22.0,False,Car
+Andrew Charles Shipley,17/03/15,W,49.0,True,Not fleeing
+Declan Owen,17/03/15,W,24.0,False,Foot
+Alice Brown,17/03/15,W,24.0,True,Not fleeing
+Jeff Alexander,18/03/15,W,47.0,False,Not fleeing
+Kaylene Stone,18/03/15,W,49.0,False,Not fleeing
+Garland Lee Wingo,18/03/15,W,64.0,False,Not fleeing
+Kendre Alston,19/03/15,B,16.0,False,Car
+Jamison  Childress,19/03/15,W,20.0,True,Not fleeing
+Robert Burdge,19/03/15,W,36.0,False,Not fleeing
+Shane Watkins,19/03/15,W,39.0,True,Not fleeing
+Brandon Jones,19/03/15,B,18.0,False,Not fleeing
+Brandon Rapp,19/03/15,W,31.0,False,Not fleeing
+Justin Fowler,20/03/15,N,24.0,False,Car
+Richard White,20/03/15,B,63.0,True,Not fleeing
+Tyrel Vick,20/03/15,W,34.0,False,Not fleeing
+James Ellis,21/03/15,W,44.0,False,Car
+Gary Page,21/03/15,W,60.0,True,Not fleeing
+Jason Smith,21/03/15,W,42.0,False,Not fleeing
+Enoch Gaver,21/03/15,W,21.0,False,Not fleeing
+Phillip Conley,22/03/15,W,37.0,True,Not fleeing
+Christopher Ryan Healy,22/03/15,W,36.0,True,Foot
+Denzel Brown,22/03/15,B,21.0,False,Car
+Devin Gates,23/03/15,B,24.0,False,Not fleeing
+Stephen Snyder,24/03/15,W,38.0,False,Not fleeing
+Walter J. Brown III,24/03/15,B,29.0,True,Car
+Scott Dunham,24/03/15,W,57.0,True,Not fleeing
+Nicholas Thomas,25/03/15,B,23.0,False,Car
+Jeremy Lorenza Kelly,25/03/15,B,27.0,False,Foot
+Victor Terrazas,25/03/15,H,28.0,False,Foot
+Joseph Tassinari,25/03/15,W,63.0,True,Not fleeing
+Deanne Choate,26/03/15,W,53.0,False,Not fleeing
+Adrian Solis,26/03/15,H,35.0,True,Not fleeing
+Gary Kendrick,27/03/15,W,56.0,True,Not fleeing
+Jamalis Hall,27/03/15,B,39.0,False,Not fleeing
+Adrian Hernandez,27/03/15,H,23.0,False,Car
+Neil Seifert,27/03/15,W,40.0,False,Foot
+Megan Hockaday,27/03/15,B,26.0,False,Not fleeing
+Harvey Oates,27/03/15,W,42.0,False,Car
+Angelo West,27/03/15,B,41.0,False,Not fleeing
+Robert Rooker,29/03/15,W,26.0,False,Car
+Byron Herbert,29/03/15,B,29.0,False,Not fleeing
+Brian Babb,30/03/15,W,49.0,True,Not fleeing
+John Marcell Allen,30/03/15,,54.0,False,Not fleeing
+Jeremy Anderson,31/03/15,W,36.0,False,Not fleeing
+Benjamin Quezada,31/03/15,H,21.0,False,Not fleeing
+Mya Hall,31/03/15,B,27.0,False,Car
+Robert Washington,01/04/15,B,37.0,False,Not fleeing
+Shawn Clyde,01/04/15,W,36.0,False,Not fleeing
+Darrin Langford,02/04/15,B,32.0,False,Foot
+Donald Hicks,02/04/15,W,63.0,True,Not fleeing
+Eric Harris,02/04/15,B,44.0,False,Not fleeing
+Aaron Rutledge,02/04/15,W,27.0,True,Not fleeing
+Christopher Prevatt,03/04/15,W,38.0,False,Not fleeing
+Justus Howell,04/04/15,B,17.0,False,Foot
+Walter Scott,04/04/15,B,50.0,False,Foot
+Paul Anderson,04/04/15,B,31.0,False,Not fleeing
+Ethan Noll,04/04/15,W,34.0,True,Car
+Ken Cockerel,05/04/15,W,51.0,True,Not fleeing
+Richard Hanna,05/04/15,W,56.0,False,Not fleeing
+Alexander Myers,06/04/15,W,23.0,True,Not fleeing
+Desmond Willis,06/04/15,B,25.0,False,Foot
+Tyrell J. Larsen,06/04/15,W,31.0,False,Car
+Erick Rose,07/04/15,W,32.0,False,Car
+Douglas Faith,08/04/15,W,60.0,False,Car
+Dexter Pernell Bethea,08/04/15,B,42.0,False,Car
+Roberto Rodriguez,08/04/15,H,39.0,False,Foot
+Joseph Jeremy Weber,08/04/15,A,28.0,True,Not fleeing
+Mark Smith,09/04/15,,54.0,False,Other
+Gordon Kimbrell,09/04/15,W,22.0,False,Not fleeing
+Don Smith,09/04/15,B,29.0,False,Car
+Jess Leipold,09/04/15,W,31.0,True,Not fleeing
+Phillip Burgess,09/04/15,W,28.0,False,Not fleeing
+Angel Cresencio Corona,10/04/15,H,21.0,False,Not fleeing
+Richard Reed,10/04/15,W,38.0,False,Car
+Donald Allen,11/04/15,W,66.0,True,Not fleeing
+Mack Long,12/04/15,B,36.0,False,Foot
+Richard Dale Weaver,12/04/15,W,83.0,True,Not fleeing
+Jason Lee Evans,12/04/15,W,32.0,True,Car
+Isaac Jimenez,13/04/15,H,27.0,False,Not fleeing
+Colby Robinson,14/04/15,B,26.0,False,Foot
+Christopher Grant Finley,14/04/15,W,31.0,True,Not fleeing
+Tevin Barkley,15/04/15,B,22.0,False,Foot
+Dante Noble,15/04/15,B,41.0,False,Not fleeing
+Frank Shephard,15/04/15,B,41.0,False,Car
+Mark W. Adair,15/04/15,W,51.0,False,Car
+Stanley Watson,15/04/15,W,72.0,True,Not fleeing
+Ernesto Flores,15/04/15,H,52.0,True,Not fleeing
+Rodolfo Velazquez,16/04/15,H,47.0,False,Not fleeing
+Jeffrey Kemp,17/04/15,B,18.0,False,Foot
+Elias Cavazos,17/04/15,H,29.0,False,Not fleeing
+Thaddeus McCarroll,17/04/15,B,23.0,True,Not fleeing
+Erik Tellez,18/04/15,H,43.0,True,Not fleeing
+Grover Sapp,18/04/15,W,45.0,False,Not fleeing
+Michael Foster,19/04/15,W,40.0,True,Not fleeing
+Dana Hlavinka,19/04/15,W,44.0,False,Not fleeing
+Santos Cortez Hernandez,20/04/15,H,25.0,False,Not fleeing
+Daniel Wolfe,21/04/15,B,35.0,False,Not fleeing
+Daniel Covarrubias,21/04/15,N,37.0,True,Foot
+Kimber Key,21/04/15,W,59.0,True,Not fleeing
+Luis Martinez,21/04/15,H,35.0,True,Not fleeing
+William Chapman,22/04/15,B,18.0,False,Not fleeing
+Carlos Saavedra Ramirez,22/04/15,H,51.0,False,Not fleeing
+Jonathan Efraim,22/04/15,W,30.0,True,Foot
+Reginald McGregor,22/04/15,B,31.0,False,Foot
+Lue Vang,22/04/15,A,39.0,False,Not fleeing
+Andrew Valadez,23/04/15,W,26.0,True,Not fleeing
+Joseph Potts,23/04/15,W,51.0,False,Not fleeing
+Hector Morejon,23/04/15,H,19.0,False,Not fleeing
+Karen Janks,24/04/15,W,46.0,False,Car
+Mark Cecil Hawkins,24/04/15,W,49.0,False,Not fleeing
+Gary Timmie  Collins,24/04/15,W,63.0,False,Car
+Todd Jamal Dye,24/04/15,B,20.0,False,Foot
+Brandon Lawrence,25/04/15,W,25.0,True,Not fleeing
+David Felix,25/04/15,B,24.0,True,Foot
+Daniel Davis,25/04/15,W,58.0,True,Not fleeing
+Billy Joe Patrick,26/04/15,W,29.0,False,Not fleeing
+Albert Hanson,26/04/15,W,76.0,False,Not fleeing
+Dean Genova,26/04/15,W,45.0,False,Not fleeing
+Terrance  Kellom,27/04/15,B,20.0,False,Not fleeing
+David Parker,28/04/15,W,58.0,False,Not fleeing
+Jared Johnson,28/04/15,B,21.0,False,Not fleeing
+Joshua Green,28/04/15,W,27.0,True,Not fleeing
+Andrew Jackson,29/04/15,W,26.0,False,Foot
+Joshua Deysie,29/04/15,H,33.0,True,Not fleeing
+Luis Chavez-Diaz,29/04/15,H,27.0,False,Not fleeing
+Alexia Christian,29/04/15,B,25.0,False,Not fleeing
+Jeffrey Adkins,29/04/15,B,53.0,True,Not fleeing
+John Acree,29/04/15,W,53.0,True,Not fleeing
+Fridoon Zalbeg Nehad,30/04/15,O,42.0,True,Not fleeing
+Erick Emmanuel Sanchez,30/04/15,H,22.0,False,Not fleeing
+Kenneth Mathena,02/05/15,W,52.0,False,Not fleeing
+Kevin Vance Norton,03/05/15,W,36.0,True,Not fleeing
+Elton Simpson,03/05/15,B,30.0,False,Not fleeing
+Nadir Soofi,03/05/15,O,34.0,False,Not fleeing
+Billy Grimm,03/05/15,H,44.0,False,Not fleeing
+Michael Asher,03/05/15,W,53.0,False,Not fleeing
+Roark Cook,04/05/15,W,36.0,True,Not fleeing
+Brendon Glenn,05/05/15,B,29.0,False,Not fleeing
+Thong Kien Ma,05/05/15,A,32.0,False,Not fleeing
+Robert A. Frost,05/05/15,W,46.0,True,Not fleeing
+David William Johnson,06/05/15,W,18.0,False,Car
+Joseph Roy,07/05/15,,72.0,True,Not fleeing
+Michael Murphy,07/05/15,W,38.0,False,Car
+Nephi Arriguin,07/05/15,B,21.0,False,Car
+Shaun Johnson,08/05/15,W,35.0,False,Not fleeing
+David Schwalm,08/05/15,W,58.0,True,Not fleeing
+Dedrick Marshall,08/05/15,B,48.0,False,Not fleeing
+Sam Holmes,08/05/15,B,31.0,False,Car
+Stephen  Cunningham,10/05/15,W,47.0,False,Not fleeing
+Lionel Lorenzo Young,10/05/15,B,34.0,False,Car
+Kelvin Goldston,11/05/15,B,30.0,False,Car
+Justin Way,11/05/15,W,28.0,True,Not fleeing
+D'Angelo Stallworth,12/05/15,B,28.0,False,Foot
+Bruce Zalonka,12/05/15,O,46.0,False,Not fleeing
+Alec Ouzounian,12/05/15,W,40.0,True,Not fleeing
+Sean Michael Pelletier,14/05/15,W,37.0,True,Car
+Cary Martin,14/05/15,W,53.0,True,Not fleeing
+Mark Farrar,15/05/15,W,41.0,True,Not fleeing
+Matt Coates,15/05/15,W,42.0,True,Not fleeing
+Ronell Wade,16/05/15,B,45.0,False,Foot
+Dennis  Fiel,17/05/15,W,34.0,True,Foot
+Austin Goodner,17/05/15,W,18.0,True,Not fleeing
+Timothy Jones,17/05/15,W,27.0,False,Not fleeing
+Alfredo Rials-Torres,19/05/15,H,54.0,False,Not fleeing
+Jonathan McIntosh,19/05/15,W,35.0,False,Not fleeing
+David  Gaines,19/05/15,W,17.0,False,Other
+Anthony Gomez,20/05/15,B,29.0,False,Not fleeing
+Jonathan  Colley,20/05/15,W,52.0,False,Not fleeing
+Chrislon Talbott,20/05/15,B,38.0,False,Not fleeing
+Nikki Jo Burtsfield,20/05/15,W,39.0,False,Car
+Marcus Wheeler,20/05/15,B,26.0,False,Not fleeing
+David Alejandro Gandara,21/05/15,H,22.0,True,Not fleeing
+Javoris Washington,21/05/15,B,29.0,False,Not fleeing
+James Anthony Cooper,21/05/15,W,43.0,False,Not fleeing
+Elvin Diaz,21/05/15,H,24.0,True,Not fleeing
+Jerome Caldwell,21/05/15,B,32.0,False,Not fleeing
+Michael Lowery,22/05/15,W,40.0,False,Not fleeing
+Caso Jackson,23/05/15,B,25.0,False,Not fleeing
+James Horn,23/05/15,W,47.0,False,Not fleeing
+Eric Robinson,23/05/15,W,40.0,False,Car
+Cassandra Bolin,25/05/15,W,31.0,True,Not fleeing
+Anthony Briggs,25/05/15,B,36.0,True,Not fleeing
+Millard Tallant III,26/05/15,W,62.0,True,Not fleeing
+Dalton Branch,26/05/15,B,51.0,False,Not fleeing
+Jessie  Williams,26/05/15,W,24.0,False,Not fleeing
+Scott McAllister,27/05/15,W,39.0,False,Not fleeing
+Garrett  Sandeno,27/05/15,W,24.0,True,Not fleeing
+Harry Davis,27/05/15,W,57.0,True,Not fleeing
+Feras Morad,27/05/15,O,20.0,False,Not fleeing
+Simon Hubble,27/05/15,W,33.0,True,Not fleeing
+Darrell Morgan,28/05/15,W,60.0,False,Not fleeing
+James Strong,28/05/15,B,32.0,False,Not fleeing
+Kenneth Dothard,28/05/15,B,40.0,False,Not fleeing
+Kyle Baker,28/05/15,W,18.0,False,Not fleeing
+Kevin Allen,29/05/15,B,36.0,False,Not fleeing
+Nehemiah Fischer,29/05/15,W,35.0,False,Not fleeing
+Robert Box,29/05/15,W,55.0,False,Not fleeing
+Ebin Lamont Proctor,30/05/15,W,19.0,False,Foot
+Alexander Tirado Rivera,30/05/15,H,39.0,False,Not fleeing
+James Anthony Morris,31/05/15,,40.0,True,Not fleeing
+James Bushey,31/05/15,W,47.0,False,Not fleeing
+Joseph Ladd,01/06/15,W,23.0,True,Other
+Usaamah Rahim,02/06/15,B,26.0,False,Not fleeing
+Kamal Dajani,02/06/15,W,26.0,True,Not fleeing
+Lorenzo Garza,03/06/15,H,46.0,False,Car
+Rudy Baca,03/06/15,H,36.0,False,Not fleeing
+Miguel Martinez,03/06/15,H,18.0,True,Car
+Edelmiro Hernandez,03/06/15,H,33.0,False,Car
+Ronald Neal,03/06/15,W,56.0,True,Not fleeing
+Jesus Quezada Gomez,05/06/15,H,50.0,False,Not fleeing
+Christie Cathers,05/06/15,W,45.0,False,Car
+Demouria Hogg,06/06/15,B,30.0,False,Not fleeing
+James Smillie,06/06/15,W,53.0,False,Not fleeing
+Alejandro Campos Fernandez,06/06/15,H,45.0,False,Foot
+Joe Nevels,06/06/15,W,42.0,True,Not fleeing
+Damien Ramirez,06/06/15,H,27.0,False,Car
+Matthew Wayne McDaniel,07/06/15,W,36.0,False,Not fleeing
+Gene Marshall,07/06/15,W,58.0,True,Not fleeing
+James Johnson,08/06/15,,54.0,True,Not fleeing
+Rene Garcia,08/06/15,H,30.0,True,Not fleeing
+Richard Warolf,08/06/15,W,69.0,True,Not fleeing
+Jeremy Linhart,09/06/15,W,30.0,False,Not fleeing
+Greg  Hartley,09/06/15,W,45.0,False,Car
+QuanDavier Hicks,09/06/15,B,22.0,False,Not fleeing
+Ryan Bolinger,09/06/15,W,28.0,False,Car
+Isiah Hampton,10/06/15,B,19.0,False,Not fleeing
+Charles Ziegler,11/06/15,B,40.0,False,Not fleeing
+Raymond  Phillips,11/06/15,,86.0,True,Not fleeing
+Fritz Severe,11/06/15,B,46.0,False,Not fleeing
+Mark Flores,11/06/15,H,28.0,True,Not fleeing
+Raymond Peralta-Lantigua,11/06/15,H,22.0,True,Not fleeing
+Shelly Haendiges,12/06/15,W,17.0,True,Not fleeing
+Anthony Hodge,13/06/15,W,46.0,False,Not fleeing
+Deng Manyoun,13/06/15,B,35.0,False,Not fleeing
+James Boulware,13/06/15,W,35.0,True,Not fleeing
+Kenneth Garcia,14/06/15,H,28.0,False,Car
+Zane Terryn,14/06/15,W,15.0,True,Not fleeing
+Kris Jackson,15/06/15,B,22.0,False,Foot
+Christopher DeLeon,16/06/15,H,28.0,False,Not fleeing
+Joe Charboneau,16/06/15,N,31.0,False,Not fleeing
+Wendy Chappell,17/06/15,W,40.0,False,Car
+Kenneth Lanphier,17/06/15,W,48.0,True,Not fleeing
+Oleg Tcherniak,18/06/15,W,58.0,False,Foot
+Santos Laboy,19/06/15,H,44.0,True,Foot
+Trepierre Hummons,19/06/15,B,21.0,True,Not fleeing
+Louis Atencio,19/06/15,H,50.0,False,Not fleeing
+Alfontish Cockerham,20/06/15,B,23.0,False,Foot
+Adrian Simental,21/06/15,H,24.0,True,Not fleeing
+Charles  Marshall,21/06/15,W,49.0,True,Not fleeing
+James Monroe Barrett,22/06/15,W,60.0,False,Foot
+Eduardo Reyes,22/06/15,H,35.0,False,Not fleeing
+Tyler Wicks,22/06/15,W,29.0,True,Not fleeing
+Tyrone Harris,22/06/15,B,20.0,False,Car
+Joshua Dyer,23/06/15,W,34.0,False,Car
+Jonathan Wilson,23/06/15,W,22.0,False,Not fleeing
+Randall Waddel,23/06/15,W,49.0,True,Foot
+Taylor Culbertson,23/06/15,W,32.0,False,Not fleeing
+Damien A. Harrell,24/06/15,B,26.0,False,Not fleeing
+Spencer McCain,25/06/15,B,41.0,True,Not fleeing
+Gilbert Jake Vanderburgh,25/06/15,W,61.0,False,Not fleeing
+Richard Matt,26/06/15,W,49.0,False,Other
+Joe Angel Cisneros,26/06/15,H,28.0,False,Foot
+Joshua Crittenden,27/06/15,W,35.0,False,Not fleeing
+Alan  Bellew,28/06/15,W,29.0,False,Not fleeing
+Richard LaPort,29/06/15,W,51.0,True,Not fleeing
+Clay Alan  Lickteig,30/06/15,W,52.0,False,Not fleeing
+Kevin Lamont Judson,01/07/15,B,24.0,False,Foot
+Kaleb Landon,01/07/15,W,32.0,False,Car
+Douglas Buckley,02/07/15,W,45.0,True,Not fleeing
+Ton Nguyen,02/07/15,A,60.0,False,Not fleeing
+Victor Emanuel Larosa,02/07/15,B,23.0,False,Foot
+Brian Johnson,02/07/15,,59.0,True,Not fleeing
+Cesar A. Limon Juarez,03/07/15,H,27.0,False,Not fleeing
+Arturo Lopez,03/07/15,H,46.0,False,Not fleeing
+Oscar Camacho,03/07/15,H,33.0,True,Not fleeing
+Joseph Julian,03/07/15,W,40.0,False,Not fleeing
+Robert Elando Malone,04/07/15,B,42.0,False,Foot
+Michael Shannon Gaby,04/07/15,W,37.0,False,Not fleeing
+Kawanza Beaty,04/07/15,B,23.0,False,Foot
+Bryan David Bauer,04/07/15,W,36.0,False,Not fleeing
+John Deming,05/07/15,W,19.0,False,Foot
+Michael Holt,05/07/15,W,35.0,False,Foot
+Richard Munroe,05/07/15,W,25.0,True,Not fleeing
+Johnny Ray Anderson,05/07/15,W,43.0,False,Not fleeing
+Tyler Rogers,06/07/15,W,20.0,False,Not fleeing
+Hagen Esty-Lennon,06/07/15,W,42.0,True,Not fleeing
+David Oliva Sarabia,06/07/15,H,42.0,False,Car
+John Leonard Berry,06/07/15,W,31.0,True,Other
+Jason Hendley,06/07/15,B,29.0,False,Not fleeing
+Marcellus Jamarcus Burley,07/07/15,B,18.0,False,Not fleeing
+Adam Dujanovic,07/07/15,W,33.0,False,Not fleeing
+Joe Cody,07/07/15,W,59.0,False,Not fleeing
+Daniel Hernandez,07/07/15,H,47.0,False,Not fleeing
+Jose Graciano Lopez,07/07/15,H,39.0,True,Not fleeing
+Tremaine Dantzler,07/07/15,B,37.0,False,Foot
+Nicholas Booth,07/07/15,W,35.0,False,Car
+Joshua Blough,07/07/15,W,28.0,False,Not fleeing
+Michael Terence Westrich,08/07/15,W,59.0,False,Not fleeing
+Dallas Shatley,08/07/15,W,62.0,False,Car
+Rocco Joseph Palmisano,09/07/15,W,50.0,False,Not fleeing
+Robert Hammonds,09/07/15,W,68.0,False,Foot
+Martice Milliner,09/07/15,B,27.0,False,Foot
+Cyrus Hurtado,09/07/15,W,17.0,True,Not fleeing
+Neil White,09/07/15,W,38.0,False,Other
+Javon Hawkins,09/07/15,B,21.0,False,Not fleeing
+James Michael Todora,10/07/15,W,54.0,True,Not fleeing
+Freddie Blue,10/07/15,B,20.0,False,Not fleeing
+Eugene McSwain,10/07/15,B,25.0,False,Not fleeing
+Billy Maine,11/07/15,W,31.0,False,Not fleeing
+Paul Castaway,12/07/15,N,35.0,True,Foot
+Salvado Ellswood,12/07/15,B,36.0,False,Not fleeing
+David Lepine,12/07/15,W,60.0,False,Foot
+Matthew Watson,12/07/15,W,24.0,False,Not fleeing
+Christopher Benton,12/07/15,W,27.0,False,Not fleeing
+Frederick Farmer,13/07/15,B,20.0,False,Not fleeing
+Matthew Ryan Graham,13/07/15,W,24.0,False,Car
+Rafael Suazo,13/07/15,H,23.0,False,Not fleeing
+Jason Davis,13/07/15,W,41.0,False,Not fleeing
+Chacarion Avant,14/07/15,B,20.0,False,Not fleeing
+Charles Crandall,14/07/15,,76.0,False,Not fleeing
+Eugene Kailing,15/07/15,W,43.0,True,Not fleeing
+Anthonie Smith,16/07/15,B,25.0,True,Not fleeing
+Antonio Gonzalez,16/07/15,H,29.0,True,Not fleeing
+Edward Foster III,16/07/15,B,35.0,False,Not fleeing
+Patrick Stephen Pippin,16/07/15,W,30.0,False,Other
+Mohammad Youssef Abdulazeez,16/07/15,O,24.0,True,Not fleeing
+Saige Hack,16/07/15,N,23.0,False,Not fleeing
+Pierre Gabriel Koellner,16/07/15,W,29.0,False,Foot
+Samuel Smith,17/07/15,W,27.0,False,Foot
+Albert Joseph Davis,17/07/15,B,23.0,False,Foot
+Jackie Brand,17/07/15,W,50.0,True,Not fleeing
+Darrius Stewart,17/07/15,B,19.0,False,Foot
+Jose Roman Rodriguez,17/07/15,H,24.0,False,Other
+David  Wheat Jr.,18/07/15,W,22.0,True,Not fleeing
+Kevin Thomas Snyder,18/07/15,W,46.0,False,Not fleeing
+Charles Edward Dewey,18/07/15,W,65.0,False,Not fleeing
+Samuel DuBose,19/07/15,B,43.0,False,Car
+Joshua LeBoeuf,20/07/15,W,35.0,False,Other
+Troy Francis,20/07/15,,54.0,False,Not fleeing
+Darren Billy Wilson,21/07/15,W,47.0,False,Not fleeing
+Joseph Fuller,21/07/15,W,24.0,False,Car
+Jerrod Tyre,21/07/15,W,35.0,False,Not fleeing
+Francisco Benitez-Santiago,22/07/15,H,25.0,False,Not fleeing
+Andre Dontrell Williams,22/07/15,B,26.0,False,Other
+Devon Guisherd,22/07/15,B,27.0,False,Not fleeing
+Dontae L. Martin,23/07/15,B,34.0,False,Not fleeing
+Derek Wolfsteller,23/07/15,W,31.0,True,Not fleeing
+Brian Stortzum,23/07/15,W,32.0,False,Not fleeing
+Robbie Lee Edison,23/07/15,W,47.0,False,Not fleeing
+Tamala Satre,23/07/15,W,44.0,True,Not fleeing
+Seth Raines,24/07/15,W,44.0,False,Not fleeing
+Lee Aaron Gerston,24/07/15,W,30.0,False,Not fleeing
+Christopher Olmstead,25/07/15,W,60.0,True,Car
+Roger Braswell,25/07/15,W,50.0,True,Not fleeing
+Bryan Keith  Day,25/07/15,B,36.0,False,Not fleeing
+Earl Jackson,25/07/15,B,59.0,False,Not fleeing
+Khari Westly,26/07/15,B,33.0,False,Not fleeing
+Zachary Hammond,26/07/15,W,19.0,False,Other
+Timothy Milliken,27/07/15,W,56.0,False,Not fleeing
+Jean Paul Falgout,27/07/15,W,45.0,True,Car
+Samuel Forgy,27/07/15,W,22.0,False,Not fleeing
+Timothy Johnson,28/07/15,,41.0,False,Not fleeing
+Michael Malone,29/07/15,H,34.0,False,Foot
+Roger Darrin Barker,29/07/15,W,53.0,True,Not fleeing
+Mark Perkins,30/07/15,W,48.0,False,Not fleeing
+Ryan Daniel Vrenon,30/07/15,W,25.0,False,Car
+Philip Vallejo,30/07/15,H,30.0,False,Not fleeing
+Oscar Lotari Romero,30/07/15,H,47.0,False,Not fleeing
+Rafael Molina,31/07/15,H,33.0,False,Not fleeing
+Jeremy  Hatch,31/07/15,W,34.0,False,Not fleeing
+David  Cook,01/08/15,,52.0,False,Not fleeing
+Armando Serrano,01/08/15,H,29.0,False,Not fleeing
+Virgil Reynolds,02/08/15,W,63.0,True,Not fleeing
+Antonio Clements,03/08/15,B,49.0,False,Not fleeing
+Joshua Malave,03/08/15,W,18.0,False,Foot
+Franklin Short,03/08/15,W,71.0,False,Not fleeing
+Shawn Ruble,03/08/15,W,35.0,True,Not fleeing
+Daniel Robert Avila,04/08/15,H,55.0,True,Not fleeing
+Darius D. Graves,04/08/15,B,31.0,True,Not fleeing
+Tyler Alexander Dattilo,05/08/15,W,18.0,False,Not fleeing
+John Dieringer,05/08/15,W,51.0,True,Not fleeing
+Raymond Hodge,05/08/15,B,39.0,False,Not fleeing
+Keshawn Dominique Hargrove,05/08/15,B,20.0,False,Foot
+Vincente Montano,05/08/15,W,29.0,True,Not fleeing
+Jason Galaviz,05/08/15,W,40.0,False,Not fleeing
+Gustavo Ponce-Galon,06/08/15,H,42.0,False,Not fleeing
+Charles Bertram,06/08/15,B,22.0,False,Car
+Christian Taylor,07/08/15,B,19.0,False,Not fleeing
+Abel Correa,07/08/15,H,24.0,True,Not fleeing
+Aaron Marchese,07/08/15,W,30.0,True,Not fleeing
+Mark Keckhafer,07/08/15,W,53.0,False,Car
+Tsombe Clark,07/08/15,B,25.0,False,Not fleeing
+Derrick Lee Hunt,07/08/15,B,28.0,False,Not fleeing
+Roderick Burr,08/08/15,,33.0,False,Not fleeing
+Shamir Terrel Palmer,08/08/15,B,24.0,False,Car
+Jeffrey Clyde Wilkes,08/08/15,W,59.0,False,Not fleeing
+Kevin McDaniel,08/08/15,W,46.0,False,Not fleeing
+Andre Green,09/08/15,B,15.0,False,Not fleeing
+Eric Tompkins,09/08/15,W,41.0,True,Not fleeing
+Robert Patrick Quinn,09/08/15,,77.0,True,Not fleeing
+Edrian Rivera,09/08/15,H,22.0,False,Foot
+Richard Tyler Young,10/08/15,W,24.0,False,Not fleeing
+Casey George Alarcon,11/08/15,W,34.0,False,Not fleeing
+Randall Lance Hughes,11/08/15,W,48.0,False,Not fleeing
+Richard Dean Shull Jr.,12/08/15,W,24.0,False,Not fleeing
+Nathaniel Wilks,12/08/15,B,27.0,False,Car
+Redel Jones,12/08/15,B,30.0,False,Not fleeing
+Anthony Lorenzo Vallejo,12/08/15,H,27.0,False,Car
+Reginald Marshall,12/08/15,B,27.0,False,Car
+William Smith,12/08/15,W,49.0,False,Car
+Garland Tyree,14/08/15,B,38.0,False,Not fleeing
+Hector Rene Sorriano Gonzalez,14/08/15,H,26.0,False,Not fleeing
+Asshams Pharoah Manley,14/08/15,B,30.0,True,Foot
+Christopher Anderson,14/08/15,W,53.0,False,Car
+John Unsworth,15/08/15,W,43.0,False,Not fleeing
+Allen Matthew Baker,15/08/15,B,23.0,False,Not fleeing
+Benjamin Peter Ashley,15/08/15,B,34.0,False,Not fleeing
+Jonathon  Pope,15/08/15,W,30.0,False,Not fleeing
+Matthew Castillo,16/08/15,H,29.0,False,Not fleeing
+Steven B. Norton,16/08/15,W,47.0,False,Not fleeing
+Frederick Roy,17/08/15,B,35.0,False,Not fleeing
+Richard Jacquez,17/08/15,H,40.0,False,Foot
+Mansur Ball-Bey,19/08/15,B,18.0,False,Foot
+Deviere Ernel Ransom,19/08/15,B,24.0,False,Car
+Jason Hale,19/08/15,W,29.0,True,Foot
+Wade Allen Baker,19/08/15,W,44.0,True,Not fleeing
+Tyler Gerken,20/08/15,W,19.0,True,Not fleeing
+Jeffory Ray Tevis,20/08/15,W,50.0,True,Not fleeing
+Raul Herrera,20/08/15,H,17.0,True,Not fleeing
+Timmy Walling,21/08/15,W,57.0,True,Not fleeing
+Charles S. Hall,21/08/15,W,30.0,False,Car
+Alan Joseph Rushton,21/08/15,W,38.0,False,Not fleeing
+Adam Schneider,22/08/15,W,31.0,False,Not fleeing
+Thaddeus Faison,22/08/15,B,39.0,False,Foot
+Jason Lee Alderman,22/08/15,W,29.0,False,Not fleeing
+Nicholas Garner,22/08/15,W,26.0,False,Car
+Kenneth Henry Morgan,22/08/15,W,64.0,False,Not fleeing
+Richard Francis Compo,23/08/15,W,36.0,True,Not fleeing
+Christopher Ray Tompkins,23/08/15,W,36.0,False,Car
+Julian Hoffman,23/08/15,W,21.0,False,Not fleeing
+Bobby Troledge Norris,23/08/15,B,53.0,False,Not fleeing
+William Lee Snider,23/08/15,W,57.0,False,Not fleeing
+Marvin Maestas,25/08/15,H,30.0,False,Foot
+Curtis Smith,25/08/15,B,34.0,False,Not fleeing
+Todd Tomlinson,25/08/15,W,53.0,False,Not fleeing
+Shane Rudolph,25/08/15,W,45.0,False,Not fleeing
+Marvin Arroliga,25/08/15,H,22.0,False,Not fleeing
+Steven Dodd,26/08/15,W,22.0,True,Not fleeing
+Brent Pickard,26/08/15,W,46.0,False,Car
+Kyle Lambrose,26/08/15,W,27.0,True,Not fleeing
+Bertrand Davis,27/08/15,B,42.0,False,Not fleeing
+Yonas Alehegne,27/08/15,B,30.0,False,Not fleeing
+Robert Hober,27/08/15,W,54.0,False,Not fleeing
+Manuel Soriano,27/08/15,H,29.0,False,Not fleeing
+Gilbert Flores,28/08/15,H,41.0,True,Not fleeing
+William Evans,28/08/15,W,28.0,True,Not fleeing
+Felix Kumi,28/08/15,B,61.0,False,Not fleeing
+Devin Brian Dial,28/08/15,W,23.0,False,Not fleeing
+James Marcus Brown,29/08/15,B,25.0,False,Foot
+Roger Albrecht,29/08/15,W,,False,Not fleeing
+Rafael Cruz Jr,29/08/15,H,29.0,False,Car
+Shawn Hall,30/08/15,W,20.0,False,Not fleeing
+David M.  Leon,30/08/15,H,40.0,False,Not fleeing
+William Rippley,31/08/15,W,45.0,False,Foot
+Cedric Maurice Williams,01/09/15,B,33.0,False,Foot
+Charles Robert Shaw,01/09/15,W,76.0,False,Not fleeing
+Michael Todd Evans,01/09/15,W,47.0,False,Not fleeing
+Arthur Bates,02/09/15,W,45.0,True,Not fleeing
+Freddy Centeno,03/09/15,H,40.0,True,Not fleeing
+Curtis James Meyer,04/09/15,W,37.0,True,Not fleeing
+Jose Ramon Damiani Jr,04/09/15,H,49.0,False,Not fleeing
+Richard Keith Kelley,04/09/15,W,27.0,False,Car
+Sully Lanier,04/09/15,W,36.0,False,Not fleeing
+Harrison Lambert,04/09/15,W,23.0,True,Not fleeing
+La'vante Trevon Biggs,05/09/15,B,21.0,True,Not fleeing
+Luis Wenceslao,05/09/15,H,32.0,True,Not fleeing
+Angelo Delano Perry,05/09/15,B,35.0,False,Not fleeing
+India Kager,05/09/15,B,28.0,False,Not fleeing
+Carlos Yero,06/09/15,H,59.0,False,Car
+Mohamed Ibrahim,06/09/15,B,28.0,True,Car
+William Verrett,06/09/15,W,45.0,False,Not fleeing
+Casimero Carlos Casillas,07/09/15,H,45.0,False,Foot
+Tristan Vent,08/09/15,N,19.0,False,Not fleeing
+Dustin Kuik,09/09/15,W,25.0,False,Not fleeing
+Tyrone Holman,09/09/15,B,37.0,True,Not fleeing
+Vincent J. Perdue,09/09/15,N,33.0,False,Car
+William Chau,09/09/15,A,59.0,False,Not fleeing
+Tian Ma,10/09/15,A,31.0,False,Not fleeing
+Bruce Santino,10/09/15,,35.0,True,Not fleeing
+Brandon Foy,10/09/15,B,29.0,False,Not fleeing
+ Austin Wilburly  Reid,10/09/15,W,32.0,False,Foot
+Eddie Tapia,10/09/15,H,41.0,False,Car
+Robert T. Edwards,11/09/15,W,31.0,False,Not fleeing
+Phillip Pfleghardt,11/09/15,W,44.0,False,Car
+Derick Davis,12/09/15,W,23.0,False,Other
+Jack Stevens Jr.,12/09/15,W,45.0,False,Not fleeing
+Martin Francis Hammen,13/09/15,W,39.0,True,Not fleeing
+Clifford Butler,13/09/15,B,67.0,True,Not fleeing
+Jeffrey Eugene Brooks,13/09/15,W,29.0,False,Car
+Joseph Thompson Johnson-Shanks,14/09/15,B,25.0,False,Car
+David Todd Powell,14/09/15,W,28.0,True,Not fleeing
+Tyrone Bass,15/09/15,B,21.0,False,Not fleeing
+Florencio Chaidez,15/09/15,H,32.0,False,Not fleeing
+Jorge  Suarez-Ruiz,15/09/15,H,51.0,True,Car
+Carlos Wilhelm,15/09/15,H,39.0,False,Not fleeing
+Bobby R. Anderson,15/09/15,B,27.0,False,Not fleeing
+Rory Lynn Gunderman,16/09/15,W,31.0,True,Foot
+Mark Gary,17/09/15,W,50.0,False,Not fleeing
+Lawrence Price,17/09/15,W,,False,Not fleeing
+Nicholas Alan Johnson,18/09/15,W,32.0,False,Car
+Gregory Herrell,18/09/15,W,47.0,False,Not fleeing
+Lucien Rolland,19/09/15,W,46.0,False,Car
+Scott Beech,19/09/15,W,57.0,True,Not fleeing
+Michael Thomas Pierce,20/09/15,W,23.0,False,Not fleeing
+Jerrald Wright,20/09/15,W,56.0,False,Not fleeing
+Gerardo Ramirez,21/09/15,H,24.0,True,Not fleeing
+William Spaits,21/09/15,W,27.0,False,Not fleeing
+Tina Money,21/09/15,W,23.0,False,Not fleeing
+Steven McKenny,21/09/15,W,21.0,False,Not fleeing
+Timothy Wagner,21/09/15,W,26.0,False,Not fleeing
+Dominic Fuller,21/09/15,H,34.0,False,Foot
+Dante Osborne,22/09/15,B,32.0,False,Car
+Joel Dixon Smith,22/09/15,W,33.0,True,Not fleeing
+Tim Kyle Torngren,22/09/15,W,55.0,True,Not fleeing
+Donaven Kyle Anderson,22/09/15,,26.0,False,Not fleeing
+Robert Berger,23/09/15,O,48.0,False,Not fleeing
+Joseph Khammash,23/09/15,W,35.0,False,Not fleeing
+Keith Harrison McLeod,23/09/15,B,19.0,False,Foot
+Kenneth Ray Pinter,23/09/15,W,45.0,False,Not fleeing
+Jeremy McDole,23/09/15,B,28.0,True,Not fleeing
+Ernesto Medina Lopez,24/09/15,H,42.0,False,Not fleeing
+Patrick O'Grady,24/09/15,W,17.0,False,Not fleeing
+Philip Quinn,24/09/15,O,30.0,True,Not fleeing
+William Lemmon,25/09/15,W,21.0,False,Other
+James Anderson,25/09/15,B,33.0,False,Not fleeing
+Jeffrey Blood,25/09/15,W,45.0,False,Not fleeing
+Anthony McKinney,26/09/15,B,46.0,False,Not fleeing
+Alejandro Lerma,26/09/15,H,23.0,False,Not fleeing
+Norma Angelica Guzman,27/09/15,H,37.0,True,Not fleeing
+Christopher Shell,27/09/15,W,43.0,False,Not fleeing
+Victor Oswaldo Coronado-Martinez,27/09/15,H,40.0,False,Not fleeing
+Junior Prosper,28/09/15,B,31.0,False,Foot
+Alberto Hernandez,28/09/15,H,59.0,False,Not fleeing
+Patrick Stephen Lundstrom,29/09/15,N,46.0,False,Not fleeing
+Robert  Christen,29/09/15,W,37.0,False,Not fleeing
+Brandon Lamar Johnson,30/09/15,B,28.0,False,Car
+David M. Diaz,02/10/15,H,28.0,False,Car
+Christian Pena,02/10/15,H,26.0,False,Not fleeing
+Phyllis Ilene Jepsen,02/10/15,W,55.0,True,Not fleeing
+Matthew Dobbins,02/10/15,W,29.0,False,Not fleeing
+James Joseph Byrd,04/10/15,,45.0,False,Not fleeing
+Eric Edgell,04/10/15,W,27.0,True,Foot
+Jeffery McCallum,04/10/15,B,31.0,False,Not fleeing
+James  Dunaway,05/10/15,W,51.0,False,Foot
+Rodney Jencsik,05/10/15,W,50.0,False,Not fleeing
+Omar Ali,05/10/15,O,27.0,False,Not fleeing
+Charles A. Pettit,05/10/15,B,18.0,False,Not fleeing
+Donald Miller II,06/10/15,,39.0,True,Not fleeing
+Amado Lago,07/10/15,H,46.0,False,Not fleeing
+Gary Carmona Boitano,09/10/15,B,19.0,False,Not fleeing
+Margaret Wagner,09/10/15,,62.0,False,Not fleeing
+Christopher Whitmarsh,10/10/15,W,49.0,True,Not fleeing
+Richard Love,10/10/15,W,31.0,False,Not fleeing
+William Combs,10/10/15,W,38.0,True,Car
+Travis Quay,10/10/15,W,40.0,False,Not fleeing
+Anthony Aguilar,10/10/15,H,35.0,False,Not fleeing
+Joe Pasquez Ortiz,11/10/15,H,34.0,False,Other
+Kevin Lau,11/10/15,A,44.0,False,Not fleeing
+Bernard Brandon Powers,11/10/15,B,23.0,False,Not fleeing
+Robert Humberto Medellin,11/10/15,H,43.0,False,Car
+Jason Day,12/10/15,B,,False,Not fleeing
+Rudolph Smith,12/10/15,W,31.0,False,Not fleeing
+Brent Brannon,14/10/15,W,27.0,False,Not fleeing
+Michelle Marie Burg,14/10/15,W,46.0,True,Car
+Samuel Villarreal,14/10/15,H,18.0,False,Car
+Michael Donald Clark,14/10/15,,59.0,False,Not fleeing
+Leslie Portis,14/10/15,B,57.0,False,Not fleeing
+Jorge Santiago Tapia,15/10/15,H,15.0,False,Car
+Kaleb Alexander,15/10/15,B,25.0,False,Not fleeing
+Linda Lee Lush,15/10/15,W,50.0,True,Car
+Michael J. Brennan,15/10/15,W,31.0,False,Car
+Robert Burgess,15/10/15,W,35.0,False,Foot
+Herbert Benitez,15/10/15,H,27.0,False,Not fleeing
+Martin  Ryans Jr.,15/10/15,B,20.0,False,Not fleeing
+Johnny Angel Rangel,16/10/15,H,27.0,False,Not fleeing
+Jason Foreman,16/10/15,,45.0,False,Not fleeing
+Ricky Javenta Ball,16/10/15,B,33.0,False,Foot
+Gino Paredes,17/10/15,H,22.0,False,Not fleeing
+Dequan Williams,17/10/15,B,28.0,True,Not fleeing
+Corey Jones,18/10/15,B,31.0,False,Not fleeing
+Krikor Ekizian,18/10/15,W,28.0,True,Not fleeing
+Dion Lamont Ramirez,19/10/15,B,53.0,False,Not fleeing
+Roger D.  Hall,20/10/15,W,30.0,False,Not fleeing
+Lamontez Jones,20/10/15,B,39.0,False,Not fleeing
+Joel Lopes,20/10/15,H,40.0,False,Not fleeing
+Darien Greenwood,20/10/15,W,30.0,False,Not fleeing
+Jonathan Tyler Gossman,20/10/15,W,21.0,False,Foot
+Miguel Angel Marin Galena,21/10/15,H,35.0,False,Other
+Ryan Christopher Rodriguez,21/10/15,H,21.0,True,Not fleeing
+Timothy Arnold,21/10/15,W,47.0,True,Not fleeing
+Lawrence Green,22/10/15,B,38.0,False,Not fleeing
+Adriene Jamarr Ludd,22/10/15,B,36.0,False,Car
+Stephen H. Brock,22/10/15,W,53.0,False,Not fleeing
+John Tozzi,24/10/15,,,False,Not fleeing
+Juan Ulloa,24/10/15,H,34.0,False,Not fleeing
+Rolly Thomas,24/10/15,B,34.0,False,Not fleeing
+Dominic Hutchinson,24/10/15,B,30.0,False,Not fleeing
+Arthur West,24/10/15,W,28.0,True,Not fleeing
+Darren Myron Fude,24/10/15,W,47.0,False,Not fleeing
+Jon Ployhar,24/10/15,W,49.0,False,Not fleeing
+John Harley Turner,25/10/15,W,36.0,False,Not fleeing
+Kevin Brunson,26/10/15,B,45.0,False,Not fleeing
+Marquesha McMillan,26/10/15,B,21.0,False,Not fleeing
+Kobvey Igbuhay,26/10/15,O,18.0,False,Foot
+Tyrie Cuyler,27/10/15,B,25.0,False,Not fleeing
+Anthony Ashford,28/10/15,B,29.0,False,Not fleeing
+Ricky Keith Keeton,28/10/15,W,57.0,False,Not fleeing
+Jerry Michael Graham Jr.,28/10/15,B,34.0,False,Not fleeing
+Jasper Levi Adams,28/10/15,W,35.0,False,Car
+Deaunte Lamar Bell,29/10/15,B,,False,Not fleeing
+Allen Quintez Swader,29/10/15,W,18.0,False,Not fleeing
+Floyd Ray Cook,30/10/15,W,62.0,False,Other
+Mario Martinez,30/10/15,H,29.0,False,Car
+Tony Berry,30/10/15,B,25.0,False,Foot
+Daniel Nole,30/10/15,W,30.0,False,Foot
+Noah Harpham,31/10/15,W,33.0,False,Not fleeing
+Bennie Lee Tignor,31/10/15,B,56.0,False,Car
+Luverne Roy Christensen,01/11/15,W,49.0,False,Not fleeing
+Killian O'Quinn,01/11/15,W,20.0,False,Not fleeing
+Jack Yantis,01/11/15,W,62.0,False,Not fleeing
+James Covington,02/11/15,B,62.0,False,Car
+Jeremy Mardis,03/11/15,W,6.0,False,Car
+Joseph Tyndall,04/11/15,W,30.0,False,Foot
+John Allen,04/11/15,B,57.0,False,Car
+Faisal Mohammad,04/11/15,O,18.0,False,Foot
+Timothy Gene Smith,04/11/15,W,47.0,False,Foot
+David  Romanoski,05/11/15,W,48.0,False,Not fleeing
+James Bigley,05/11/15,W,20.0,True,Car
+Jacob Hohman,05/11/15,W,30.0,False,Not fleeing
+Laura Lemieux,05/11/15,W,36.0,True,Not fleeing
+Michael  Johnson,06/11/15,W,51.0,True,Not fleeing
+James Francis Smyth,06/11/15,W,55.0,False,Car
+Kim Lee Long,06/11/15,W,48.0,False,Not fleeing
+Delvin Simmons,09/11/15,B,20.0,False,Car
+Cesar Cuellar,09/11/15,H,25.0,True,Not fleeing
+Dale Maverick Hudson,09/11/15,W,26.0,False,Not fleeing
+Leonel Acevedo,09/11/15,H,45.0,False,Not fleeing
+Miguel Cano,09/11/15,H,35.0,False,Not fleeing
+Dana Bruce Ott,10/11/15,W,63.0,True,Not fleeing
+Eddie Gabriel Sanchez,10/11/15,H,34.0,False,Not fleeing
+Jason Leanard Mesaros,10/11/15,H,36.0,False,Car
+Andrew Blake,10/11/15,W,22.0,False,Not fleeing
+Joseph Jaramillo,11/11/15,H,31.0,False,Car
+Javier Lopez Garcia,11/11/15,H,25.0,False,Not fleeing
+Brian Gavin,11/11/15,W,57.0,False,Not fleeing
+Ryan Quinn Martin,11/11/15,B,32.0,False,Not fleeing
+Moises Nero,12/11/15,B,42.0,False,Not fleeing
+Michael Joseph Bartkiewicz,13/11/15,W,52.0,False,Not fleeing
+Ernesto Gamino,13/11/15,H,25.0,False,
+Matthew Coleman,13/11/15,W,25.0,False,Foot
+Ramon Salazar,14/11/15,H,31.0,False,Not fleeing
+Richard Perkins,15/11/15,B,39.0,False,Not fleeing
+John David Livingston,15/11/15,W,32.0,False,Not fleeing
+Shane Whitehead,15/11/15,B,16.0,False,Not fleeing
+Jamar Clark,15/11/15,B,24.0,False,Not fleeing
+Cameron Davis Long,16/11/15,W,28.0,False,Car
+Brent Noblitt,16/11/15,W,25.0,False,Car
+Michael Tindall,17/11/15,W,41.0,False,Car
+Yohans Leon,17/11/15,B,28.0,True,Foot
+Demetrius Bryant,17/11/15,B,21.0,False,Not fleeing
+Jeray Chatham,17/11/15,B,30.0,False,Car
+Derry Touchstone,17/11/15,W,58.0,False,Not fleeing
+Francis Hartnett,17/11/15,W,47.0,True,Not fleeing
+Cornelius Brown,18/11/15,B,25.0,False,Not fleeing
+Marcus Meridy,18/11/15,B,44.0,False,Not fleeing
+Randy Allen Smith,19/11/15,B,34.0,False,
+Steve Dormil,19/11/15,B,27.0,False,Not fleeing
+Darick Napper,19/11/15,B,34.0,False,Not fleeing
+William Tarrant,20/11/15,W,39.0,True,Not fleeing
+Nathaniel Harris Pickett,20/11/15,B,29.0,True,Not fleeing
+Chris Nichols,21/11/15,W,24.0,False,Foot
+James Daniel Hall,22/11/15,W,47.0,True,Not fleeing
+Matthew Grows,22/11/15,W,45.0,False,Not fleeing
+Miguel Angel Martinez,22/11/15,H,28.0,False,Not fleeing
+Henry Reyna,23/11/15,H,49.0,False,Not fleeing
+Barry Kirk,23/11/15,W,50.0,False,Not fleeing
+Michael Kirvelay,24/11/15,W,45.0,False,Not fleeing
+Thomas Joseph Mceniry,24/11/15,W,32.0,True,Foot
+Freddy Baez,24/11/15,B,24.0,False,Not fleeing
+Magnum Edgar Phillips,25/11/15,W,23.0,False,Not fleeing
+Douglas R. Slade,25/11/15,W,52.0,False,Not fleeing
+Somer Speer,25/11/15,W,37.0,False,Not fleeing
+Andrew Thomas,26/11/15,W,26.0,False,Car
+Rick Gullickson,27/11/15,W,58.0,False,Not fleeing
+Kevin Close,28/11/15,W,50.0,False,Not fleeing
+Justin D. McHenry,29/11/15,W,22.0,False,Not fleeing
+Lionel Kerns,29/11/15,W,53.0,False,Not fleeing
+Ralph Aguilar,29/11/15,H,69.0,True,Not fleeing
+Hugo Fernando Celio,29/11/15,H,23.0,False,Foot
+Zachary Grigsby,29/11/15,W,29.0,False,
+Tuan Hoang,30/11/15,A,25.0,False,Car
+Darius Smith,30/11/15,B,18.0,False,Foot
+Fernando Sauceda,30/11/15,H,31.0,False,Not fleeing
+Joshua  Jozefowicz ,01/12/15,W,23.0,False,Foot
+John Anthony Gonzalez,01/12/15,H,18.0,False,Not fleeing
+Phillip Munoz,02/12/15,H,35.0,False,Car
+Tashfeen Malik,02/12/15,O,27.0,False,Car
+Syed Farook,02/12/15,O,28.0,False,Car
+Mario Woods,02/12/15,B,26.0,False,Not fleeing
+Allen Pacheco,02/12/15,H,32.0,False,Not fleeing
+Florencio Lucero,02/12/15,H,36.0,False,Not fleeing
+Neil Scott Stretesky,03/12/15,W,66.0,False,Not fleeing
+Ivan Krstic,04/12/15,W,47.0,False,Not fleeing
+Raymone M. Davis,04/12/15,B,21.0,False,Not fleeing
+Colten Price Marcellus,05/12/15,W,24.0,False,Foot
+David  Winesett,05/12/15,W,51.0,False,Not fleeing
+Michael L. Funk,05/12/15,W,60.0,False,Not fleeing
+Sheilah Huck,05/12/15,W,61.0,False,Not fleeing
+Juan Perez,05/12/15,H,38.0,False,Not fleeing
+Raymond Azevedo,06/12/15,W,35.0,False,Car
+Carlumandarlo Zaramo,06/12/15,B,46.0,True,Not fleeing
+John Alan Britton,06/12/15,W,48.0,True,Not fleeing
+Miguel Espinal,08/12/15,B,36.0,False,Foot
+Derek Stokes,08/12/15,B,33.0,False,Not fleeing
+Christopher Higdon,09/12/15,W,66.0,False,Not fleeing
+Sammy Monroe Echols,09/12/15,,51.0,True,Not fleeing
+Jason Bryant,10/12/15,W,34.0,False,Not fleeing
+Charles Edward Rosemond,10/12/15,B,55.0,False,Not fleeing
+Thomas Arthur Gendreau,10/12/15,W,54.0,False,Not fleeing
+TK TK,10/12/15,,,False,Not fleeing
+Steven Wickert,11/12/15,W,36.0,False,Not fleeing
+Christopher Goodlow,12/12/15,B,25.0,True,Not fleeing
+Javario Shante Eagle,12/12/15,B,24.0,False,Not fleeing
+Nicholas Robertson,12/12/15,B,28.0,False,Not fleeing
+Jonathan Wardlow,12/12/15,W,36.0,False,Not fleeing
+Andrew Jospeh Todd,12/12/15,W,20.0,True,Not fleeing
+Roy Carreon,12/12/15,H,49.0,False,
+Efrain Villanueva,12/12/15,,,False,
+Shirley  Weis,13/12/15,W,51.0,True,Not fleeing
+Ryan McMillan,13/12/15,W,21.0,True,Not fleeing
+Nephi  Leiataua,13/12/15,O,30.0,False,Not fleeing
+Enrique Gonzalez,13/12/15,H,32.0,False,Not fleeing
+Calvin McKinnis,14/12/15,B,33.0,False,Not fleeing
+Jeffrey Gene Evans,14/12/15,W,52.0,True,Not fleeing
+Michael  Thomason,14/12/15,W,56.0,False,Not fleeing
+Brenda Dean Kimberling,14/12/15,W,48.0,True,Not fleeing
+Mharloun Verdejo  Saycon,14/12/15,A,39.0,False,Not fleeing
+Hector Alvarez,14/12/15,H,19.0,False,
+Roberto Sanchez,14/12/15,H,45.0,False,Not fleeing
+Mark Toney,14/12/15,W,33.0,False,Not fleeing
+Ronnie Dubose Carter,15/12/15,B,51.0,False,Car
+Bryant Neil Duncan,16/12/15,W,,True,Not fleeing
+Douglas Yon,17/12/15,W,25.0,True,Not fleeing
+Christopher Fletcher,17/12/15,W,24.0,False,Other
+Erica Lauro,18/12/15,W,22.0,False,Other
+Amos Frerichs,18/12/15,W,32.0,False,Car
+Robert L. Martinez,18/12/15,H,58.0,True,Not fleeing
+Trayvon Scruggs,19/12/15,B,24.0,False,
+Ruben Jose Herrera,19/12/15,H,26.0,True,Not fleeing
+Leroy Browning,20/12/15,B,30.0,False,Not fleeing
+Mark  Ramirez,20/12/15,H,31.0,True,Not fleeing
+Guadalupe Quiroz,21/12/15,H,34.0,False,Not fleeing
+Bobby Daniels,21/12/15,B,48.0,False,Not fleeing
+Michael Noel,21/12/15,B,,True,Not fleeing
+Derek DeGroat,21/12/15,W,21.0,True,Not fleeing
+Robert L. Teter,21/12/15,W,39.0,False,Not fleeing
+Chan Leith,21/12/15,B,25.0,False,Not fleeing
+Brandon Barsnick,21/12/15,W,30.0,False,Not fleeing
+Charles Reynolds,22/12/15,,61.0,False,Not fleeing
+Kenneth Stephens,22/12/15,W,56.0,False,Not fleeing
+Michael Hilber,22/12/15,W,29.0,False,Car
+Jose  Rodriguez,22/12/15,H,19.0,False,Foot
+Kevin Matthews,23/12/15,B,35.0,True,Not fleeing
+Schuylar Gunning,24/12/15,W,36.0,False,Car
+Gregory Sanders,24/12/15,,54.0,True,Not fleeing
+Terrozza Tyree Griffin,24/12/15,B,24.0,False,Not fleeing
+Omar Ventura,24/12/15,H,23.0,False,Not fleeing
+Daquan Antonio Westbrook,24/12/15,B,18.0,False,Not fleeing
+William David Raff,25/12/15,W,31.0,True,Not fleeing
+Lonnie Niesen,26/12/15,W,41.0,True,Not fleeing
+Bettie Jones,26/12/15,B,55.0,False,
+Quintonio LeGrier,26/12/15,B,19.0,True,Not fleeing
+Gilbert Heredia,26/12/15,H,38.0,False,Not fleeing
+Michael Parker,27/12/15,W,36.0,False,Car
+Sean Mould,27/12/15,W,34.0,True,Not fleeing
+Gayneaux Paul Trahan,27/12/15,W,52.0,False,Not fleeing
+Corey Jason Achstein,28/12/15,W,28.0,False,Not fleeing
+Siolosega Velega-Nuufolau,29/12/15,O,50.0,True,Not fleeing
+Tien Hua,29/12/15,A,,False,Not fleeing
+Fred Perez,30/12/15,H,55.0,False,Not fleeing
+John Randell Veach,30/12/15,,39.0,False,
+Keith Childress,31/12/15,B,23.0,False,Not fleeing
+Joshua Sisson,01/01/16,W,30.0,False,Not fleeing
+Sean O'Brien,02/01/16,W,37.0,False,Not fleeing
+Lance Light,02/01/16,W,54.0,False,Car
+Lonnie Haskell Powers,02/01/16,W,37.0,False,Not fleeing
+Germonta Wallace,03/01/16,B,30.0,False,Not fleeing
+Eric John Senegal,04/01/16,B,27.0,False,Not fleeing
+Rodney Turner,04/01/16,B,22.0,False,Foot
+Joel Anthony Nelson,05/01/16,W,29.0,False,Foot
+James K. Maher,05/01/16,W,39.0,False,Foot
+Carlton Antonio Murphy,05/01/16,B,33.0,False,Not fleeing
+Stephen Bukwich,05/01/16,W,52.0,True,Not fleeing
+Albert Thompson,05/01/16,H,28.0,False,Foot
+David Zollo,05/01/16,W,54.0,True,Not fleeing
+Charles Hollstein,06/01/16,W,38.0,True,Foot
+Alan Huberth Franco-Armenta,06/01/16,H,32.0,True,Not fleeing
+Kenneth Clay,06/01/16,W,34.0,False,Not fleeing
+Eric C. Olsen,08/01/16,W,26.0,False,Not fleeing
+Andrew Earl Abernathy,08/01/16,W,50.0,True,Not fleeing
+David Jay Kent,10/01/16,W,37.0,True,Not fleeing
+Christine A. Lucas,10/01/16,W,45.0,True,Not fleeing
+Alan Paul Bartley,11/01/16,W,56.0,False,Car
+Robert Tenbrink,11/01/16,W,45.0,True,Foot
+Ramone Lonergan,11/01/16,W,32.0,False,Not fleeing
+Ciara Meyer,11/01/16,W,12.0,False,Not fleeing
+Herman Bean,12/01/16,N,49.0,True,Not fleeing
+Keith Richardson,12/01/16,W,58.0,True,Not fleeing
+Brandon Bearden,13/01/16,W,29.0,False,Foot
+Timothy Meehan,13/01/16,W,60.0,True,Not fleeing
+Willie Holderfield,14/01/16,W,40.0,True,Not fleeing
+Miguel Hernandez,14/01/16,H,39.0,False,Not fleeing
+William Keith Waldron,15/01/16,W,26.0,False,Not fleeing
+Rakeem Bentley,15/01/16,B,24.0,False,Not fleeing
+Alfred Longoria,16/01/16,H,34.0,False,Foot
+Ashton Lane Morris,16/01/16,W,27.0,False,Foot
+Adam Karjalainen,16/01/16,W,44.0,False,Not fleeing
+Kelsey Rose Hauser,16/01/16,W,25.0,False,Car
+Clarence Layfield,16/01/16,W,55.0,False,Car
+Henry Bennett,16/01/16,B,19.0,False,Foot
+Crayton West,17/01/16,B,52.0,False,Not fleeing
+Efrain Herrera,17/01/16,H,24.0,False,Not fleeing
+Joshua Tate Fielding,17/01/16,W,38.0,False,Not fleeing
+Corey Lee Henderson,17/01/16,W,31.0,False,Foot
+Daniel Shaver,17/01/16,W,26.0,False,Not fleeing
+Jordan Szymanski,18/01/16,W,33.0,True,Not fleeing
+Eric Provost,18/01/16,W,28.0,False,Not fleeing
+Timothy Caruthers,18/01/16,W,27.0,False,Foot
+Levi Gene Wilson,18/01/16,W,39.0,True,Not fleeing
+Vasilios Alexander Katsouras,18/01/16,W,29.0,True,Not fleeing
+Gary Wayne Jones,19/01/16,W,36.0,False,Car
+Samuel Grady,19/01/16,W,55.0,True,Not fleeing
+Jim Redmond,19/01/16,W,28.0,False,Not fleeing
+Timothy Albert,20/01/16,B,40.0,False,Not fleeing
+Randy Joe Sanders,20/01/16,W,33.0,False,Foot
+Michael Clyde Lynch,20/01/16,W,37.0,False,Other
+Cedric Norris,21/01/16,B,39.0,True,Car
+Michael Lamar Robinson,23/01/16,W,43.0,False,Not fleeing
+Sergio Alvarado-Morales,25/01/16,H,38.0,True,Not fleeing
+"Robert ""LaVoy"" Finicum",26/01/16,W,55.0,False,Not fleeing
+Scott Scanlon,27/01/16,W,52.0,False,Not fleeing
+Johnathan Bratcher,27/01/16,B,32.0,False,Other
+Herman Flores,27/01/16,H,31.0,False,Not fleeing
+John Wesley Smith,27/01/16,W,27.0,False,Not fleeing
+Thongsavanh Vandarack,27/01/16,A,40.0,True,Not fleeing
+Janet Wilson,27/01/16,B,31.0,True,Car
+Nathan Lee Bailey,27/01/16,W,30.0,False,Car
+Israel Vladimir Rodriguez,27/01/16,H,26.0,False,Car
+Jacqueline D. Salyers,28/01/16,N,32.0,False,Not fleeing
+William A. Adams,28/01/16,W,33.0,True,Foot
+Christopher Kalonji,28/01/16,B,19.0,True,Not fleeing
+Randolph McClain,29/01/16,B,33.0,False,Other
+Christopher Michael Dew,29/01/16,B,29.0,False,Not fleeing
+Angela Hiatt,29/01/16,W,41.0,False,Car
+Charles M. Smith,30/01/16,B,29.0,False,Not fleeing
+Philip B. Salazar,30/01/16,H,38.0,False,Not fleeing
+Jose Alegre,30/01/16,H,64.0,True,Not fleeing
+Jeremy J. Sinclair,30/01/16,W,42.0,False,Car
+Joshua Shane Bispo,31/01/16,W,42.0,False,Car
+Bruce Kelley,31/01/16,B,37.0,True,Not fleeing
+Juan A. Ruiz,31/01/16,H,46.0,False,Not fleeing
+Michael Brown,31/01/16,W,25.0,False,Not fleeing
+Jeffry Graves,31/01/16,,62.0,True,Not fleeing
+Peter John,01/02/16,B,36.0,False,Foot
+Edgar Rene Alvarado,01/02/16,H,21.0,True,Car
+Justin Prescott,02/02/16,W,30.0,True,Not fleeing
+John Henry Neuman,03/02/16,W,53.0,False,Not fleeing
+Cristiaan Oliver Dubrino,03/02/16,H,31.0,True,Not fleeing
+Raymond Gassman,03/02/16,N,22.0,False,Not fleeing
+Kayden Clarke,04/02/16,W,24.0,True,Not fleeing
+Antronie Scott,04/02/16,B,36.0,False,Not fleeing
+Scott Harless,04/02/16,W,47.0,False,Foot
+Thomas Hirko,04/02/16,W,54.0,False,Not fleeing
+Hector Leroy,04/02/16,H,43.0,False,Not fleeing
+Ronald Barawis,05/02/16,O,38.0,False,Car
+Blake Edward Fitzgerald,05/02/16,W,30.0,False,Car
+Vinson Ray Strickland,05/02/16,W,51.0,False,Foot
+Phillip Ferry,05/02/16,W,55.0,False,Not fleeing
+Jose Mendez,06/02/16,H,16.0,False,Car
+Marese V. Collins,07/02/16,B,23.0,False,Other
+Phillip Luchsinger,07/02/16,W,36.0,False,Not fleeing
+Michael Laniado,07/02/16,,27.0,False,Not fleeing
+Shalamar Longer,08/02/16,B,33.0,False,Car
+David Joseph,08/02/16,B,17.0,False,Not fleeing
+Eric Harris,08/02/16,B,22.0,False,Car
+Gustavo Najera,09/02/16,H,22.0,False,Not fleeing
+Scottie Yanagawa,09/02/16,O,29.0,False,Not fleeing
+Timothy Vessels,10/02/16,W,41.0,False,Not fleeing
+David Brian Evans,10/02/16,W,67.0,False,Not fleeing
+Vincent Nageak,10/02/16,N,36.0,False,Not fleeing
+John Birkeland,10/02/16,W,52.0,True,Not fleeing
+Anthony Bertoni,10/02/16,O,56.0,True,Not fleeing
+Alijah Jackson,11/02/16,W,35.0,True,Not fleeing
+Matthew Quinn,11/02/16,W,45.0,False,Not fleeing
+Mohamed Barry,11/02/16,B,30.0,False,Car
+Peter Fanfan,12/02/16,B,29.0,True,Not fleeing
+David Glen Watson,12/02/16,W,53.0,False,Not fleeing
+Sahlah Ridgeway,12/02/16,B,32.0,True,Not fleeing
+Calvin Smith,13/02/16,B,22.0,True,Car
+Ali Eisa Abdalla Yahia,13/02/16,B,29.0,False,Not fleeing
+Calin Roquemore,13/02/16,B,24.0,False,Other
+Dyzhawn L. Perkins,13/02/16,B,19.0,False,Not fleeing
+Rammy Jaradat,14/02/16,W,26.0,False,Not fleeing
+Marc Stoddart,14/02/16,W,50.0,True,Not fleeing
+Eduardo Rodriguez,14/02/16,H,29.0,False,Not fleeing
+Guadalupe Sauceda,15/02/16,H,52.0,False,Not fleeing
+Brandon Lee Witt,15/02/16,W,39.0,False,Not fleeing
+Christopher Andrews,16/02/16,W,51.0,True,Not fleeing
+Destry Meikle,16/02/16,W,48.0,False,Car
+Shawn Henry Allen Dickens,16/02/16,W,30.0,False,Foot
+Paul Gaston,17/02/16,B,37.0,False,Other
+Joseph Noel,18/02/16,W,25.0,False,Not fleeing
+Jose Quintanilla,18/02/16,H,30.0,False,Not fleeing
+Oscar Reyes,18/02/16,H,35.0,False,Not fleeing
+Ronnie Padron,18/02/16,H,32.0,False,Not fleeing
+Justin Patrick Moses,19/02/16,W,35.0,True,Not fleeing
+Curtis James Dugger,19/02/16,W,31.0,False,Not fleeing
+Danny Rendon,20/02/16,H,30.0,False,Car
+Edgar Camacho-Alvarado,20/02/16,H,23.0,False,Foot
+Marcos Perea,20/02/16,B,41.0,False,Car
+Charles Lee Lambert,20/02/16,W,45.0,True,Not fleeing
+Che Taylor,21/02/16,B,46.0,False,Not fleeing
+Sherrisa Homer,21/02/16,N,36.0,True,Foot
+Kisha Michael,21/02/16,B,31.0,False,Not fleeing
+Marquintan Sandlin,21/02/16,B,32.0,False,Not fleeing
+Patricia Kruger,21/02/16,N,38.0,False,Not fleeing
+Gerardino Cayetano Gonzalez,22/02/16,H,33.0,False,Other
+Jamie Clark Long,22/02/16,W,45.0,False,Not fleeing
+David Michael Green,22/02/16,W,38.0,True,Car
+Rouven Loch,22/02/16,W,22.0,False,Not fleeing
+Travis Stevenson,23/02/16,B,48.0,True,Not fleeing
+Angel Alan Gleason,23/02/16,H,36.0,False,Other
+Baltazar Ramos,23/02/16,H,39.0,True,Not fleeing
+Alex Buckner,23/02/16,W,26.0,True,Not fleeing
+Robert Keil,24/02/16,W,16.0,True,Not fleeing
+Martin Wirth,24/02/16,W,58.0,True,Not fleeing
+Victor Rivera,24/02/16,H,27.0,False,Car
+Francisco Garcia,24/02/16,H,26.0,False,Not fleeing
+Christopher J. Davis,24/02/16,B,21.0,False,Car
+Luke Miller,25/02/16,W,37.0,False,Foot
+Greg Gunn,25/02/16,B,56.0,False,Not fleeing
+Tristan Conti,25/02/16,W,19.0,False,Not fleeing
+Cedric Ford,25/02/16,B,38.0,True,Not fleeing
+Kionte Desean Spencer,26/02/16,B,18.0,True,Not fleeing
+Abraham Mitchell Fryer,26/02/16,W,35.0,False,Not fleeing
+Fernando Hernandez,27/02/16,H,23.0,False,Car
+Nathan Grissom,28/02/16,W,41.0,False,Not fleeing
+Earl Hicks,28/02/16,W,44.0,True,Not fleeing
+Akiel Denkins,29/02/16,B,24.0,False,Foot
+Dimitri Corcino,01/03/16,H,39.0,True,Not fleeing
+Jorge Brian Gonzalez,01/03/16,H,22.0,True,Not fleeing
+Mickey Dewayne Sweatt,01/03/16,W,37.0,False,Not fleeing
+Travis Boyd Bradley,02/03/16,W,36.0,True,Not fleeing
+Daniel Burkhardt,02/03/16,W,41.0,False,Not fleeing
+Sergio Ochoa,03/03/16,H,27.0,False,Car
+John Alan Chamberlain,04/03/16,,66.0,False,
+Brandon Stanley,04/03/16,W,30.0,False,Not fleeing
+Darrell Bosell,05/03/16,W,34.0,True,Not fleeing
+Herbert Ballance,05/03/16,W,22.0,True,Not fleeing
+Mark Minnick,06/03/16,W,51.0,True,Not fleeing
+James Scott,06/03/16,W,42.0,False,Foot
+Osvaldo Torres,06/03/16,H,41.0,False,Other
+Philip Vitullo,07/03/16,W,49.0,True,Not fleeing
+Bryon Rosas,07/03/16,W,45.0,False,Not fleeing
+Randall J. Selsor,07/03/16,W,45.0,False,Not fleeing
+"John Charles ""JC"" Graham",07/03/16,W,42.0,False,Not fleeing
+Daniel H. Chavez,07/03/16,H,41.0,False,Car
+Jeffrey Glen Casale,08/03/16,W,27.0,True,Not fleeing
+Wesley Sheppard,10/03/16,W,37.0,False,Not fleeing
+Arteair Porter Jr.,10/03/16,B,22.0,True,Foot
+Martin Hurtado,10/03/16,H,21.0,False,Foot
+Jason Meador,10/03/16,W,50.0,True,Not fleeing
+German Gonzalez,10/03/16,H,23.0,False,Car
+Tyre Privott,11/03/16,B,25.0,False,Not fleeing
+"Manford ""Butch"" Moore Jr.",11/03/16,W,51.0,True,Not fleeing
+Jack Goodman,11/03/16,W,46.0,True,Not fleeing
+Teodoro Valencia,11/03/16,H,23.0,False,Foot
+Peter Gaines,12/03/16,B,37.0,False,Foot
+Marco Loud,12/03/16,B,20.0,False,Not fleeing
+Christopher Michael Tokazowski,12/03/16,W,43.0,True,Not fleeing
+Gevork Alachadzhyan,13/03/16,W,45.0,True,Car
+Jose Raul Cruz,13/03/16,H,16.0,False,Car
+Joshua Grubb,13/03/16,W,30.0,False,Car
+Wesley Chad Deerman,13/03/16,W,26.0,False,Car
+Keith Montgomery Jr.,13/03/16,B,24.0,False,Not fleeing
+Amy Jean McCoy,13/03/16,W,38.0,False,Not fleeing
+Jacai Colson,13/03/16,B,28.0,False,Not fleeing
+Lamar Harris,14/03/16,B,29.0,False,Foot
+Joseph Harris,15/03/16,W,34.0,False,Foot
+Daniel J. Wooters,15/03/16,W,38.0,False,Car
+Ed Russell McIver,15/03/16,W,43.0,False,Other
+Cristian Rene Medina,16/03/16,H,23.0,True,Not fleeing
+Eric Hernandez,16/03/16,H,33.0,True,Not fleeing
+Dennis Penny,16/03/16,W,40.0,True,Not fleeing
+Map Kong,17/03/16,A,38.0,True,Not fleeing
+Sunny Chin,17/03/16,A,53.0,False,Not fleeing
+Scott Bennett,17/03/16,B,29.0,False,
+Christopher Nelms,17/03/16,B,30.0,False,Not fleeing
+Michael Mallet,18/03/16,,49.0,True,Not fleeing
+David Alma Giles,18/03/16,W,60.0,False,Not fleeing
+India Beaty,19/03/16,B,25.0,False,Not fleeing
+Joshua Douglas,19/03/16,W,24.0,False,Car
+Thurman Reynolds,19/03/16,B,21.0,False,Foot
+Dylan R. Whitaker,19/03/16,W,23.0,False,Other
+Boyd Keith Ballard,20/03/16,W,61.0,True,Not fleeing
+Clarence Briggs,20/03/16,W,54.0,False,Other
+Abraham Martinez,20/03/16,H,62.0,False,Foot
+Robert Dentmond,20/03/16,B,16.0,True,Not fleeing
+"Ralph ""Phil"" Grenon",21/03/16,W,76.0,True,Not fleeing
+Dylan Pape,21/03/16,W,25.0,True,Not fleeing
+Edward J. Gorinski,21/03/16,W,28.0,True,Car
+Ethan James Rincon,22/03/16,H,25.0,True,Not fleeing
+Travis J. Blair,22/03/16,W,33.0,False,Other
+Daven Scott Hannu,23/03/16,W,51.0,False,Not fleeing
+Raymond Gonzalez,23/03/16,H,34.0,False,Foot
+Alexio Allen,23/03/16,B,30.0,True,Not fleeing
+Robert L. Dussourd,24/03/16,W,44.0,False,Foot
+Dominique Silva,24/03/16,B,24.0,False,Foot
+Andrew Mike,24/03/16,W,29.0,False,Not fleeing
+Joel A. Gonzales,24/03/16,H,48.0,False,Not fleeing
+Mario Sandoval,24/03/16,H,19.0,False,Not fleeing
+Jermon Seals,24/03/16,B,22.0,False,Not fleeing
+Jose Perez,26/03/16,H,39.0,True,Not fleeing
+Terrence Shane Blackburn,26/03/16,W,36.0,True,Not fleeing
+Donald Andrew White,26/03/16,W,55.0,False,Not fleeing
+Patrick Matthew McManamon,26/03/16,W,46.0,True,Not fleeing
+Jeffrey Lanahan,27/03/16,W,34.0,True,Not fleeing
+Loreal Tsingine,27/03/16,N,27.0,False,Not fleeing
+Robert D. Guerin,27/03/16,W,33.0,True,Not fleeing
+Deriante Deon Miller,27/03/16,B,18.0,False,Not fleeing
+Earl Ashby,27/03/16,W,33.0,True,Not fleeing
+Joseph Louis Melvin,29/03/16,W,46.0,False,Not fleeing
+Robert Morgan Garrison Jr.,29/03/16,W,51.0,True,Not fleeing
+Denise Fairchild,29/03/16,W,50.0,True,Not fleeing
+Angel Montion,30/03/16,W,33.0,False,Foot
+Ruben Cossyleon,30/03/16,H,25.0,False,Not fleeing
+Thomas Lagano,30/03/16,W,52.0,False,Not fleeing
+James Craig Simpson,31/03/16,B,31.0,False,Foot
+Kimani Johnson,31/03/16,B,18.0,False,Not fleeing
+Matthew Vincent Wood,31/03/16,B,43.0,False,Not fleeing
+James Brown III,31/03/16,B,34.0,False,Not fleeing
+Jesus Juarez,01/04/16,H,65.0,True,Not fleeing
+Joel Fabela,01/04/16,H,37.0,False,Not fleeing
+Cameron Gover,02/04/16,B,30.0,False,Not fleeing
+Preston Paul Perez,03/04/16,W,48.0,False,
+Melissa Boarts,03/04/16,W,36.0,True,Not fleeing
+Darrin Andrew Martin,03/04/16,W,25.0,False,Foot
+David Mack,03/04/16,W,69.0,False,Not fleeing
+Raul Salvador Marquez Heraldes,04/04/16,H,50.0,True,Not fleeing
+Peter J. Doherty,05/04/16,W,52.0,True,Not fleeing
+Kevin Hicks,05/04/16,B,44.0,False,Not fleeing
+Marvin Cremeans,06/04/16,W,60.0,False,Not fleeing
+Laronda Sweatt,06/04/16,B,40.0,False,Not fleeing
+Cesar Frias,06/04/16,H,20.0,True,Not fleeing
+Luis Gongora,07/04/16,H,45.0,False,Not fleeing
+Lance C. McIntire,07/04/16,W,44.0,False,Not fleeing
+Dazion Flenaugh,08/04/16,B,40.0,True,Foot
+Melissa M. Abbott,08/04/16,W,25.0,True,Not fleeing
+Lamont Gulley,08/04/16,B,43.0,False,Not fleeing
+Diahlo Grant,09/04/16,B,27.0,False,Foot
+Quron Williams,09/04/16,B,19.0,False,Foot
+Lonnie Ball,10/04/16,W,39.0,False,Car
+William Clark,10/04/16,W,30.0,True,Not fleeing
+Arturo Yobani-Torrez Valdez,10/04/16,H,28.0,False,Not fleeing
+Efren Eloy Trujillo,11/04/16,H,22.0,False,Not fleeing
+Pierre Loury,11/04/16,B,16.0,False,Foot
+Dion Daman,12/04/16,W,40.0,False,Car
+Joshua Moreno,12/04/16,H,38.0,False,Car
+Travis Wood,12/04/16,W,20.0,False,Car
+Rodney Watts,13/04/16,B,35.0,False,Not fleeing
+Jeffrey Gray Wise,13/04/16,W,52.0,False,Not fleeing
+Koltlee Whitson,13/04/16,W,26.0,False,Car
+Jeff Robertson,14/04/16,W,54.0,True,Not fleeing
+Clemente Najera,15/04/16,H,38.0,False,Not fleeing
+David Swatsky,15/04/16,W,52.0,True,Not fleeing
+Storm Allen Smith,15/04/16,W,26.0,False,Foot
+Gerald Robert Boyes,16/04/16,W,53.0,False,Not fleeing
+Kisha Arrone,17/04/16,B,35.0,False,Car
+Eric John Wilson,17/04/16,W,22.0,True,Not fleeing
+Richard Bard Jr.,17/04/16,B,31.0,False,Foot
+George Tillman,17/04/16,B,32.0,False,Foot
+Edson Thevenin,17/04/16,B,37.0,False,Car
+Rico Don Rae Johnson,18/04/16,B,28.0,False,Not fleeing
+Demetrius Dorsey,18/04/16,B,18.0,False,Not fleeing
+Sylasone Ackhavong,19/04/16,A,41.0,True,Not fleeing
+Jorevis Scruggs,19/04/16,B,15.0,False,Other
+Daniel Eric Blackmon,19/04/16,W,38.0,False,Car
+Francis Scot Dufore,20/04/16,W,41.0,False,Not fleeing
+Jackie Lee Kirkham,20/04/16,W,52.0,False,Not fleeing
+Mario Mejia Martinez,21/04/16,H,48.0,False,Not fleeing
+Tyler Hunkin,22/04/16,W,29.0,True,Not fleeing
+Carl Baranishyn,22/04/16,W,51.0,True,Not fleeing
+Demarcus Semer,23/04/16,B,21.0,False,Car
+Mitchell Oakley,23/04/16,W,24.0,True,Not fleeing
+Jakob E. Wagner,23/04/16,W,18.0,False,Not fleeing
+Eric C. Wakup,23/04/16,W,30.0,True,Not fleeing
+Willie Tillman,23/04/16,B,33.0,False,Car
+Kay Frances Campbell,25/04/16,W,60.0,True,Not fleeing
+Robin Barber,26/04/16,W,28.0,False,Foot
+Joshua Brooks,26/04/16,B,26.0,True,Not fleeing
+Jacquelyn Burke,26/04/16,W,24.0,True,Car
+Darrel S. Machemehl,26/04/16,W,44.0,False,Other
+David Shane Anderson,27/04/16,W,36.0,False,Not fleeing
+Cin Lam Mung,27/04/16,A,34.0,False,Not fleeing
+Damon Blair,27/04/16,W,21.0,False,Not fleeing
+Kendar del Rosario,28/04/16,B,37.0,False,Not fleeing
+Lee Easter,28/04/16,W,53.0,True,Not fleeing
+Michael Kurtz,28/04/16,W,45.0,True,Not fleeing
+Ashtian Barnes,28/04/16,B,24.0,False,Car
+Jeffrey Darrell Hobbs,29/04/16,W,48.0,False,Car
+Oswald Mattner,30/04/16,W,42.0,False,Not fleeing
+Mark Daniel Bess,30/04/16,W,33.0,False,Foot
+Bender Dass,30/04/16,W,55.0,False,Car
+Marion Habana,30/04/16,A,28.0,False,Not fleeing
+Charlin Charles,01/05/16,B,25.0,False,Not fleeing
+Ronald Branch,01/05/16,W,28.0,True,Not fleeing
+Reginald Darnell Dogan,02/05/16,B,52.0,False,Not fleeing
+Raymond Hopper,03/05/16,W,59.0,False,Not fleeing
+Richard Ferretti,04/05/16,W,52.0,False,Not fleeing
+Cayce A. DiTullio,04/05/16,W,39.0,False,Car
+Matthew Tucker,04/05/16,,18.0,False,Not fleeing
+Gerry J. Thompson,04/05/16,W,40.0,False,Not fleeing
+Corey DiGiovanni,05/05/16,W,36.0,False,Car
+Burt Johnson,05/05/16,B,38.0,False,Foot
+Deresha Armstrong,05/05/16,B,26.0,False,Not fleeing
+Ronald D. Williams,06/05/16,B,,True,Not fleeing
+Nathan Q. Cates,07/05/16,W,29.0,True,Not fleeing
+Alton Fitzgerald Witchard,07/05/16,B,37.0,False,Other
+Derek J. Sam,07/05/16,O,29.0,False,Not fleeing
+Lionel Gibson,08/05/16,B,21.0,False,Not fleeing
+Arthur R. Williams,09/05/16,B,33.0,False,Not fleeing
+Jaffort Smith,09/05/16,B,33.0,False,Not fleeing
+Christian Bowman,09/05/16,W,23.0,False,Not fleeing
+Michael Johnson,09/05/16,W,26.0,False,Foot
+Joseph Napoli,09/05/16,,59.0,False,Not fleeing
+Jamie Stotts,09/05/16,W,29.0,True,Other
+Arthur DaRosa,10/05/16,B,28.0,True,Not fleeing
+Stephen Schuster,11/05/16,W,35.0,False,Car
+Thongsoune Vilaysane,11/05/16,A,33.0,False,Car
+Sean Ryan Mondragon,11/05/16,B,24.0,False,Car
+Steve Godfrey,11/05/16,W,,True,Car
+Robert Mark Diaz,13/05/16,H,28.0,False,Not fleeing
+Cody Marsh,14/05/16,W,19.0,True,Not fleeing
+Francis Clark,14/05/16,N,43.0,False,Not fleeing
+Jeffrey Sims,14/05/16,W,59.0,False,Not fleeing
+Ryan Johnson,14/05/16,W,34.0,True,Not fleeing
+"Dracy ""Clint"" Pendleton",15/05/16,W,35.0,False,Foot
+Jabril Robinson,16/05/16,B,23.0,False,Foot
+Luke Sanders,17/05/16,W,36.0,True,Not fleeing
+Garry Conrad,18/05/16,W,46.0,True,Not fleeing
+Joseph Weatherby,18/05/16,W,44.0,False,Other
+Israel Santos-Banos,18/05/16,H,20.0,False,Not fleeing
+Jeremias Cruz,19/05/16,H,30.0,False,Not fleeing
+Jessica Nelson-Williams,19/05/16,B,29.0,False,Car
+Jaime Ide,19/05/16,H,35.0,False,Not fleeing
+Timothy Brandon Stacy,19/05/16,W,36.0,False,Not fleeing
+Kentrill William Carraway,19/05/16,B,22.0,False,Not fleeing
+Joshua Beebee,20/05/16,B,31.0,False,Foot
+Norman Campbell,21/05/16,W,63.0,False,Not fleeing
+Travis Moore,21/05/16,W,38.0,True,Not fleeing
+Mark Nelson,21/05/16,N,31.0,True,Not fleeing
+Michael Eugene Wilson Jr.,22/05/16,B,27.0,False,Car
+Jorge Zambrano,22/05/16,H,35.0,False,Not fleeing
+Vernell Bing,22/05/16,B,22.0,False,Car
+Bryson Fischer,22/05/16,W,28.0,True,Not fleeing
+Verl Bedonie,23/05/16,N,26.0,False,Foot
+Bodhi Wilson Dean Phelps,24/05/16,W,22.0,False,Not fleeing
+Leslie Goletz,24/05/16,,57.0,False,Car
+Mario Montoya,24/05/16,H,31.0,False,Not fleeing
+Derek Prophet,25/05/16,W,43.0,True,Not fleeing
+Doll Pierre-Louis,25/05/16,B,24.0,False,Car
+"Eugene ""Geno"" Francis Smith",26/05/16,W,29.0,False,Not fleeing
+Warren Christian,26/05/16,W,43.0,False,Foot
+TK Tk,26/05/16,,,False,Not fleeing
+Devonte Gates,26/05/16,B,21.0,False,Foot
+Fernando Castro,26/05/16,H,19.0,False,Car
+Tk Tk,26/05/16,,,False,Not fleeing
+Angel Daniel Navarro,26/05/16,H,25.0,False,Car
+Terry Edwards,27/05/16,W,59.0,False,Not fleeing
+Dennis Hudson,28/05/16,B,50.0,False,Not fleeing
+Dennis Humphrey,28/05/16,W,58.0,False,Not fleeing
+Dionisio Augustine Garza III,29/05/16,H,25.0,True,Not fleeing
+Donald Edward Brown III,29/05/16,W,32.0,False,Not fleeing
+John Mark Coffey,29/05/16,W,53.0,False,Not fleeing
+Todd Brent Burroughs,29/05/16,W,38.0,False,Car
+Robert Wickizer,30/05/16,W,70.0,False,Not fleeing
+Osee Calix,30/05/16,B,33.0,False,Not fleeing
+Nicholas Berger,31/05/16,W,36.0,False,Not fleeing
+TK TK,01/06/16,,,False,Not fleeing
+Michael Johnson,01/06/16,B,21.0,False,Foot
+Daniel Pigg,01/06/16,W,51.0,False,Foot
+Willie Demetrius James,02/06/16,B,43.0,True,Not fleeing
+Rodney Rodriguez Smith,02/06/16,B,18.0,False,Not fleeing
+Joshua Smith,03/06/16,W,33.0,False,Not fleeing
+"Hubert Thomas Burns, Jr.",03/06/16,N,34.0,False,Not fleeing
+Daniel Jonathan Shaham,04/06/16,,31.0,False,Not fleeing
+Demarco Rhymes,04/06/16,B,35.0,False,Other
+Larry Dustin Stepp,04/06/16,W,31.0,True,Not fleeing
+Christopher Michael Moran,05/06/16,W,31.0,False,Car
+Henry Green,06/06/16,B,23.0,False,Not fleeing
+Kalyp Allen Rapoza,06/06/16,O,25.0,False,Not fleeing
+Andrew Henson,07/06/16,W,25.0,False,Car
+Omar Villagomez,07/06/16,H,21.0,False,Not fleeing
+Willis N. Walker,07/06/16,B,49.0,False,Not fleeing
+William David Powell,07/06/16,W,63.0,False,Not fleeing
+Carlos Garcia,08/06/16,H,43.0,False,Not fleeing
+William Michael Hollis,09/06/16,W,34.0,False,Car
+James Allen Nickol,09/06/16,W,38.0,False,
+John Michael Brisco,09/06/16,B,52.0,False,Foot
+Clifford Tucker,09/06/16,W,68.0,True,Not fleeing
+TK TK,09/06/16,,,False,Not fleeing
+Keith Bursey,10/06/16,B,31.0,False,Not fleeing
+Clayton Millsaps,10/06/16,W,29.0,False,Not fleeing
+Bobby Sanchez,10/06/16,H,32.0,False,Foot
+J. Juan Briseno-Ortega,10/06/16,H,50.0,False,Not fleeing
+Lyndarius Cortez Witherspoon,11/06/16,B,27.0,False,Car
+Jesus Duran,11/06/16,H,31.0,False,Not fleeing
+Omar Mateen,12/06/16,O,29.0,True,Not fleeing
+Daniel Bennett Edwards,12/06/16,W,23.0,True,Not fleeing
+John Williams,12/06/16,B,61.0,False,Car
+Joshua Sciscm,13/06/16,W,33.0,False,Not fleeing
+Michael Moore,13/06/16,B,18.0,False,Not fleeing
+Edward Acquisto,13/06/16,H,80.0,False,Car
+Kenneth Allen Pointer,13/06/16,W,43.0,False,Car
+Noel Rodriguez,14/06/16,H,50.0,False,Car
+Nicholas Ferro,14/06/16,W,47.0,False,Not fleeing
+Mohammad Moghaddam,14/06/16,O,54.0,False,Not fleeing
+Fernando Geovanni Llanez,14/06/16,H,22.0,False,Not fleeing
+Russell Rosser,15/06/16,W,43.0,False,Car
+Michael Rasmussen,15/06/16,W,38.0,True,Car
+Ronald Delfino,16/06/16,H,21.0,False,Car
+Peter Grandpre,16/06/16,W,36.0,False,Not fleeing
+Nicholas Damon,16/06/16,H,30.0,False,Car
+John Anderson,16/06/16,,,True,Not fleeing
+William Thomas Hennessey,18/06/16,W,34.0,False,Not fleeing
+Sergey Makarenko,18/06/16,W,17.0,False,Car
+Antwun Shumpert,18/06/16,B,37.0,False,Foot
+Rashaun Lloyd,19/06/16,B,25.0,False,Not fleeing
+Anthony Ford,19/06/16,,30.0,False,Not fleeing
+Raufeal M. Bostick,20/06/16,B,23.0,False,Not fleeing
+Devin Christopher Scott,20/06/16,W,20.0,False,Not fleeing
+Lane Lesko,21/06/16,W,19.0,True,Car
+Jeff Hyde,21/06/16,W,50.0,True,Not fleeing
+Pedro Cruz-Amado,21/06/16,H,24.0,True,Not fleeing
+Josiah Williams,22/06/16,W,25.0,False,Not fleeing
+Isaiah Core,22/06/16,B,20.0,False,Car
+Roger Ponce,22/06/16,W,37.0,False,Not fleeing
+Quencezola Maurice Splunge,22/06/16,B,44.0,False,Foot
+Deravis Caine Rogers,22/06/16,B,22.0,False,Other
+Shaun Trevor Walke,22/06/16,W,31.0,False,Not fleeing
+Jay Anderson,23/06/16,B,25.0,False,Not fleeing
+Angelo Brown,23/06/16,B,,False,Foot
+Josh Herrera,23/06/16,,29.0,False,Not fleeing
+Ismael Miranda,24/06/16,B,36.0,False,Not fleeing
+Randy Blecher,24/06/16,W,50.0,False,Not fleeing
+Christy Sheats,24/06/16,W,42.0,True,Not fleeing
+Miguel Angel Chavez-Angles,24/06/16,H,42.0,True,Other
+Jamil Alejandro Valladares,24/06/16,H,26.0,False,Not fleeing
+Dylan Noble,25/06/16,W,19.0,True,Car
+Waldemar Bogusiewicz,25/06/16,W,59.0,False,Not fleeing
+Rodrigo Guardiola,25/06/16,H,36.0,False,Other
+William Ferguson,25/06/16,,,False,Not fleeing
+Terry Lynn Maurer,26/06/16,W,51.0,True,Not fleeing
+Daniel Reyes,26/06/16,H,27.0,False,Not fleeing
+Germichael Kennedy,26/06/16,B,22.0,False,Foot
+Donte L. Johnson,26/06/16,B,30.0,False,Not fleeing
+Michael Disbrowe,27/06/16,W,28.0,True,Not fleeing
+Sherman Evans,27/06/16,B,63.0,True,Not fleeing
+Blake Peacock,27/06/16,W,32.0,False,Not fleeing
+Travis Vierra,27/06/16,W,26.0,False,Not fleeing
+Raymond Hutson,27/06/16,W,25.0,False,Car
+Barry Prak,28/06/16,A,27.0,False,Foot
+Walden Dang,28/06/16,A,61.0,False,Not fleeing
+Jessie J. Mills,29/06/16,W,30.0,False,Not fleeing
+Tyrone Reado,29/06/16,B,,False,Not fleeing
+Lafayette Evans,29/06/16,B,37.0,False,Foot
+Michael William Schumacher,29/06/16,W,41.0,True,Not fleeing
+Kawme Dejuan Patrick,30/06/16,B,25.0,False,
+Tristan Vilters,30/06/16,W,24.0,False,Not fleeing
+Jasen Scott Ramirez,30/06/16,H,44.0,False,Not fleeing
+Alexis George Mishtowt,01/07/16,W,63.0,False,Not fleeing
+Steven McQueen,01/07/16,W,30.0,False,Not fleeing
+Helmut Wihowski,01/07/16,W,58.0,False,Not fleeing
+Jai Lateef Solveig Williams,02/07/16,B,35.0,False,Car
+Jonathan Lane Justiss,02/07/16,W,50.0,False,Not fleeing
+Shannon Labit,03/07/16,W,40.0,True,Not fleeing
+Raul Saavedra-Vargas,03/07/16,H,,False,Car
+Pedro Villanueva,03/07/16,H,19.0,False,Car
+William Tracy Patterson,04/07/16,W,34.0,False,Not fleeing
+Anthony Nunez,04/07/16,H,18.0,True,Not fleeing
+Sidney Washington,04/07/16,B,21.0,False,Not fleeing
+TK TK,04/07/16,,,False,Not fleeing
+Alton Sterling,05/07/16,B,37.0,False,Not fleeing
+Joshua Bolster,05/07/16,W,29.0,False,
+Sam Newby,05/07/16,W,49.0,False,Car
+Melissa Ventura,05/07/16,H,24.0,False,Not fleeing
+Philando Castile,06/07/16,B,32.0,False,Not fleeing
+Thomas Vandemark,06/07/16,W,65.0,False,Not fleeing
+Vinson Lee Ramos,07/07/16,H,37.0,False,Not fleeing
+Adam Smith,07/07/16,W,33.0,False,Car
+Earnest Fells,07/07/16,B,63.0,False,Not fleeing
+Abraham Smith,08/07/16,W,30.0,True,Not fleeing
+Andre Johnson,09/07/16,B,40.0,False,Car
+Alva Burnett Braziel,10/07/16,B,38.0,False,Not fleeing
+Joseph Mann,11/07/16,B,50.0,True,Not fleeing
+Jason Brooks,11/07/16,B,41.0,False,Not fleeing
+Pablo Medina,11/07/16,H,41.0,False,Not fleeing
+Orville Edwards,11/07/16,B,39.0,False,Foot
+Larry Darnell Gordon,11/07/16,W,44.0,False,Not fleeing
+Benjamin Zeckovic,12/07/16,W,23.0,True,Not fleeing
+Donald S. Myers,13/07/16,W,32.0,False,Foot
+Richard G. Dinneny,13/07/16,W,56.0,True,Not fleeing
+Dayten Ernest Harper,14/07/16,B,33.0,False,Not fleeing
+Bobby Horne,15/07/16,W,63.0,True,Not fleeing
+Billy D. Smith,16/07/16,W,31.0,True,Not fleeing
+Cody Wayne Jarrett,16/07/16,W,26.0,False,Other
+Patrick Fennell,16/07/16,W,57.0,False,Foot
+Kevin Higgins,17/07/16,W,39.0,False,Not fleeing
+Michael Ray Ramsey,17/07/16,W,43.0,False,Not fleeing
+Jermaine Johnson,17/07/16,B,42.0,False,Not fleeing
+Gavin Eugene Long,17/07/16,B,29.0,True,Not fleeing
+Jerry Brimer,18/07/16,W,56.0,True,Not fleeing
+Javier Garcia Gaona,20/07/16,H,31.0,True,Not fleeing
+Derek Love,21/07/16,B,50.0,False,Not fleeing
+BJ Medeiros,21/07/16,O,36.0,True,Not fleeing
+Paul Edward Yacabitis,22/07/16,W,50.0,False,
+Steven Alfred Longoria,23/07/16,H,34.0,False,Not fleeing
+Austin Jerry Lee Howard,23/07/16,B,49.0,False,Not fleeing
+Bernard Wells,23/07/16,B,31.0,False,Foot
+Robert Lee Lourenco,24/07/16,W,36.0,True,Not fleeing
+Alvin R. Sylversmythe,24/07/16,N,29.0,True,Not fleeing
+Jeff Cornell Tyson,25/07/16,B,32.0,False,Car
+Richard Risher,25/07/16,B,18.0,False,Foot
+Scot Minard,26/07/16,W,50.0,False,Car
+Juan Reynaldo Duran,26/07/16,H,36.0,False,
+Michael Adams,27/07/16,W,33.0,False,Foot
+Devon Martes,27/07/16,B,17.0,False,Foot
+Dalvin Hollins,27/07/16,B,19.0,True,Foot
+Dylan Liberti,27/07/16,W,24.0,False,Foot
+Saddam Trejeda-Campos,27/07/16,H,24.0,True,Not fleeing
+Emil Ambrose Mecklenburg,27/07/16,W,20.0,False,Not fleeing
+Jorge Moreno-Aguirre,28/07/16,H,41.0,False,Not fleeing
+Jeffrey Smith,28/07/16,B,47.0,False,Car
+Paul O'Neal,28/07/16,B,18.0,False,Car
+Jesus Rael,28/07/16,H,31.0,False,Other
+Donnell Thompson,28/07/16,B,27.0,False,Other
+Omar Gonzalez,28/07/16,H,36.0,False,Car
+Melvin Faison,29/07/16,W,59.0,False,Not fleeing
+Amanda Page Bivens,29/07/16,W,40.0,False,Not fleeing
+John Casey,31/07/16,W,32.0,False,Foot
+Mario Martinez Torres,31/07/16,H,38.0,False,Not fleeing
+Limichael Shine,31/07/16,A,18.0,True,Not fleeing
+Richard Swihart,01/08/16,,32.0,False,Not fleeing
+Korryn Gaines,01/08/16,B,23.0,False,Not fleeing
+Bryan N. Byrd,01/08/16,W,43.0,False,Car
+Kenneth Eugene Bonanno,01/08/16,W,67.0,False,Not fleeing
+Richard Lance London,02/08/16,W,22.0,False,Car
+Adam Jo Klimek,02/08/16,W,31.0,False,Not fleeing
+DeMarco Newman,02/08/16,B,43.0,True,Not fleeing
+Matthew David Conrad,02/08/16,W,34.0,True,Car
+William Bowers,02/08/16,W,51.0,False,Foot
+Benjamin William Heaton,03/08/16,W,31.0,False,Foot
+Bradley Carey,03/08/16,W,54.0,False,Not fleeing
+E.J. Walters,03/08/16,W,69.0,False,Car
+Johannes Wood,05/08/16,W,58.0,True,Not fleeing
+Jamarion Rashad Robinson,05/08/16,B,26.0,True,Not fleeing
+David Michael Moya,05/08/16,,31.0,True,Not fleeing
+James Quealy,05/08/16,W,59.0,True,Not fleeing
+Jawari Porter,07/08/16,B,25.0,True,Not fleeing
+Earl Pinckney,07/08/16,B,20.0,True,Not fleeing
+James W. Jennings,08/08/16,W,69.0,True,Not fleeing
+Darnell Wicker,08/08/16,B,57.0,False,Not fleeing
+Michael McClurg,08/08/16,W,56.0,False,Not fleeing
+James Eugene Burgess,08/08/16,W,64.0,False,Not fleeing
+Juan J. Godines,08/08/16,H,34.0,False,Other
+Ronald Smith,09/08/16,W,45.0,True,Not fleeing
+Jesse James Romero,09/08/16,H,14.0,False,Foot
+Jeffrey Allen Morris,09/08/16,W,44.0,False,Not fleeing
+Tommy Seneca,11/08/16,W,54.0,False,Not fleeing
+Jeff Martelli,11/08/16,W,59.0,True,Not fleeing
+Sergio Daniel Weick,11/08/16,H,33.0,False,Other
+Jesus Armando Carillo,12/08/16,H,22.0,False,Car
+Dominic Rollice,12/08/16,W,49.0,True,Not fleeing
+Eric Ortega Soto,13/08/16,H,36.0,False,Car
+Sylville Smith,13/08/16,B,23.0,False,Foot
+Ruben Horacio Strand Alvear,13/08/16,H,38.0,True,Not fleeing
+Perry Lee Heitman,13/08/16,W,53.0,False,Not fleeing
+Jovany Martinez,15/08/16,H,29.0,True,Not fleeing
+Danny Pirtle,15/08/16,W,42.0,False,Other
+Marcos Antonio Gastelum,16/08/16,H,25.0,False,Not fleeing
+Kenney Watkins,16/08/16,B,18.0,False,Foot
+John O'Handley,16/08/16,W,55.0,False,Not fleeing
+Michael S. Martin,16/08/16,W,36.0,False,Car
+Carl Nivens,16/08/16,W,32.0,False,Foot
+Larry Eugene Kurtley,16/08/16,W,53.0,False,Not fleeing
+Colby Friday,16/08/16,B,30.0,False,Foot
+Omer Ismail Ali,17/08/16,B,27.0,False,Not fleeing
+Francisco Villarreal,18/08/16,H,37.0,False,Car
+Daniel Kevin Harris,18/08/16,W,29.0,False,Car
+Chad Irwin,18/08/16,W,40.0,False,Not fleeing
+Joseph Weber,18/08/16,W,36.0,False,Car
+Trenton Lohman,18/08/16,W,38.0,False,Car
+David Klassen,18/08/16,W,29.0,False,Not fleeing
+David Fulton,18/08/16,W,59.0,True,Not fleeing
+Marcelo Luna,19/08/16,H,47.0,True,Not fleeing
+Jorge Ceniceros,19/08/16,H,22.0,False,Not fleeing
+Kole B. Knight,19/08/16,W,31.0,True,Not fleeing
+Kyle Zimbelman,19/08/16,W,29.0,False,Car
+Todd P. Browning,19/08/16,W,54.0,False,Not fleeing
+Pedro Montanez,20/08/16,H,71.0,False,Not fleeing
+Juan Gabriel Torres,21/08/16,H,36.0,False,Not fleeing
+Kelley Brandon Forte,22/08/16,B,34.0,False,Not fleeing
+Bobby Lyn Buck,23/08/16,W,49.0,False,Car
+Elias Portillo,24/08/16,H,36.0,False,Foot
+William Charbonneau,24/08/16,W,43.0,True,Not fleeing
+Jeffrey Darren Hosea,24/08/16,W,53.0,False,Not fleeing
+Jerry Lee Jackson,25/08/16,,63.0,False,Not fleeing
+Donta Taylor,25/08/16,B,31.0,False,Foot
+David Coborubio,25/08/16,H,32.0,False,Not fleeing
+Matthew Gibbon,26/08/16,W,41.0,False,Foot
+Angel Torres Jr.,27/08/16,H,26.0,False,Not fleeing
+Terry Salazar,27/08/16,,49.0,False,Not fleeing
+Darrel Hetrick,27/08/16,W,82.0,False,Not fleeing
+Justin Kulhanek-Derks,28/08/16,W,37.0,True,Not fleeing
+Jaqwan Julius Terry,29/08/16,B,24.0,False,Foot
+Michael Peacor,29/08/16,W,56.0,False,Not fleeing
+Paula Dell Phillips,29/08/16,W,35.0,False,Not fleeing
+James Robert Richards,29/08/16,,28.0,False,Foot
+Justin Baker,30/08/16,,36.0,True,Not fleeing
+Levonia Riggins,30/08/16,B,22.0,False,Not fleeing
+Lyle Patrick Blanchard,30/08/16,W,59.0,False,Other
+Gregory Mathis,30/08/16,W,36.0,False,Not fleeing
+Michael Ferguson,31/08/16,W,21.0,False,Foot
+Thomas E. Sekscinski,31/08/16,W,38.0,False,Car
+Ed Holup,01/09/16,W,60.0,True,Not fleeing
+Caleb J. Douglas,01/09/16,W,18.0,False,Car
+Joshua Quintero,01/09/16,H,23.0,False,Foot
+TK TK,01/09/16,H,,False,Not fleeing
+Joseph Moreno,02/09/16,H,38.0,False,Foot
+Randall Rodick,02/09/16,,40.0,True,Car
+Michael Robert Musson,02/09/16,W,22.0,False,Not fleeing
+Michael Thompson,02/09/16,B,38.0,False,Other
+Jerome Damon,03/09/16,B,25.0,False,Foot
+Cameron Ayers,03/09/16,W,25.0,False,Not fleeing
+Donny Max Daugherty,03/09/16,W,36.0,False,Other
+Jeremiah Richard Ramirez,03/09/16,,,False,Car
+Jose Romero,04/09/16,H,,True,Not fleeing
+Simon Gomez,04/09/16,H,44.0,True,Not fleeing
+Moses Ruben,05/09/16,B,36.0,False,Car
+Cesar Garcia,05/09/16,H,35.0,False,Not fleeing
+David L. Anderson,06/09/16,W,25.0,False,Other
+Bernard Cottrell,06/09/16,,65.0,True,Car
+Steven Del Rio,06/09/16,H,31.0,False,Car
+Larry Grant Whitehead,06/09/16,W,70.0,False,Not fleeing
+Dylan Papa,06/09/16,W,25.0,True,Not fleeing
+Robert Lee Brown,07/09/16,B,55.0,False,Not fleeing
+Jesse Daniel Joynt,07/09/16,W,35.0,False,Not fleeing
+Sadiq Bishara-Abaker Idris,07/09/16,B,25.0,False,Not fleeing
+Francis Perry,08/09/16,W,32.0,False,Not fleeing
+Jose Torres,08/09/16,H,38.0,False,Not fleeing
+Ricardo Tenorio,09/09/16,H,32.0,False,Not fleeing
+Travis Ell,09/09/16,W,64.0,True,Not fleeing
+Gregory Frazier,09/09/16,B,55.0,False,Not fleeing
+Dennis Claude Stanley,10/09/16,W,69.0,True,Not fleeing
+Adrian Joseph Shaffer,10/09/16,W,37.0,False,Not fleeing
+Terrence Sterling,11/09/16,B,31.0,False,Other
+Eugene Craig,12/09/16,,86.0,False,Not fleeing
+Markell Bivins,12/09/16,B,25.0,False,Not fleeing
+Christian Vargas,12/09/16,H,25.0,False,Car
+Tyre King,14/09/16,B,13.0,False,Foot
+Robert Carrillo,15/09/16,H,32.0,False,Other
+Morgan Wayne Crocker,15/09/16,W,34.0,False,Foot
+Joseph Allen Schlosser,15/09/16,W,69.0,True,Not fleeing
+Thomas P. Mone,16/09/16,,46.0,False,Not fleeing
+Terence Crutcher,16/09/16,B,40.0,False,Not fleeing
+Jesse Beshaw,16/09/16,N,29.0,False,Foot
+Lucas Anderson,16/09/16,W,29.0,False,Not fleeing
+Robert Duh,17/09/16,W,42.0,False,Not fleeing
+Nicholas Glenn,17/09/16,B,25.0,False,Foot
+Robert Young,17/09/16,W,45.0,False,Other
+William Joseph Ryan,17/09/16,W,55.0,True,Not fleeing
+Dahir Adan,17/09/16,O,22.0,False,Not fleeing
+Philip Hasan,18/09/16,B,61.0,False,Not fleeing
+Michelle Miller,19/09/16,W,46.0,True,Not fleeing
+Jeremy Ray Swenson,19/09/16,W,30.0,True,Not fleeing
+Gary Don Lafon,19/09/16,W,56.0,True,Not fleeing
+Charles Dove,20/09/16,W,35.0,False,Car
+Joshua Scott,20/09/16,W,22.0,True,Not fleeing
+Michael Goodale,20/09/16,W,23.0,False,Not fleeing
+Keith Lamont Scott,20/09/16,B,43.0,False,Not fleeing
+Sandy Joe Duke,20/09/16,W,43.0,False,Not fleeing
+Thomas Tucker,20/09/16,W,49.0,False,Foot
+Austin M. Baier,21/09/16,W,23.0,False,Not fleeing
+Jesse Ataway,23/09/16,W,41.0,False,Foot
+Oddis Bernard Colvin,23/09/16,B,33.0,False,Not fleeing
+Christopher Contreras,23/09/16,H,30.0,False,Foot
+Cody Lafont,25/09/16,W,25.0,True,Not fleeing
+Anthony Ray Bauer,26/09/16,W,52.0,False,Other
+Leeland White,26/09/16,W,32.0,True,Not fleeing
+Nathan DeSai,26/09/16,W,46.0,False,Not fleeing
+Jamie Joseph Lewis,26/09/16,W,48.0,True,Not fleeing
+Alfred Olango,27/09/16,B,38.0,True,Not fleeing
+John Ethan Carpentier,27/09/16,W,26.0,False,Car
+Christopher Sowell,28/09/16,B,32.0,False,Not fleeing
+Johnathan Lozano-Murillo,28/09/16,H,28.0,False,Not fleeing
+Jeffrey Clair Cave,29/09/16,W,53.0,False,Not fleeing
+Clayton Eugene Baker,30/09/16,W,38.0,False,Not fleeing
+George Richards-Meyers,30/09/16,B,18.0,False,Not fleeing
+Douglas Marrickus Rainey,30/09/16,B,32.0,False,Foot
+Richard Parent,30/09/16,W,37.0,False,Other
+Najier Salaam,30/09/16,B,18.0,False,Not fleeing
+Jacquarius M. Robinson,30/09/16,B,20.0,False,Foot
+Joshua Allen Perry,01/10/16,W,28.0,False,Foot
+Carnell Snell,01/10/16,B,18.0,False,Foot
+Daniel Perez,02/10/16,H,16.0,True,Not fleeing
+Donte T. Jones,02/10/16,B,36.0,False,Not fleeing
+Robert Dapkus,03/10/16,W,57.0,False,Not fleeing
+John H. Fetter,03/10/16,W,49.0,False,Not fleeing
+Isaias Salgado,04/10/16,H,31.0,False,Foot
+Zachary Sutton,04/10/16,W,26.0,False,Not fleeing
+Dean Bruning,04/10/16,W,51.0,True,Not fleeing
+Brandon Simmons,05/10/16,W,28.0,True,Not fleeing
+Lucas M. Felkel,05/10/16,W,35.0,False,Car
+Larry Daniel Matthews,07/10/16,B,57.0,False,Not fleeing
+Joseph S. Schroeder,07/10/16,W,36.0,False,Not fleeing
+Eddie Collins,07/10/16,W,42.0,False,Not fleeing
+Christopher Darnell Shackleford,07/10/16,B,,False,Not fleeing
+Thomas Jeffery Burns,07/10/16,W,49.0,False,Not fleeing
+Charles Antrup,08/10/16,W,62.0,False,Not fleeing
+Ricardo Hernandez,08/10/16,H,21.0,True,Not fleeing
+Dylan Rogers,08/10/16,,39.0,False,Not fleeing
+Kim Jackson,08/10/16,W,53.0,False,Not fleeing
+Deric J. Brown,09/10/16,B,41.0,False,Not fleeing
+Luis Michael Hoff,09/10/16,W,40.0,True,Car
+Dennis Hunt,10/10/16,,50.0,False,Not fleeing
+Maurico Barron,10/10/16,H,27.0,True,Not fleeing
+Kheyanev Littledog,10/10/16,N,19.0,False,
+Devan Desnoyers,10/10/16,W,26.0,False,Car
+Michael L. Taylor,11/10/16,A,44.0,False,Not fleeing
+Dominick Musulman,11/10/16,W,30.0,False,Not fleeing
+Blaine J. Beason,12/10/16,W,31.0,False,Not fleeing
+Kirk Figueroa,12/10/16,B,33.0,False,Not fleeing
+Matthew Brewer,12/10/16,W,22.0,False,Not fleeing
+Rex Vance Wilson,13/10/16,,50.0,False,Car
+Shawn Pappe,13/10/16,W,46.0,True,
+Patrick D. Reddeck,13/10/16,W,38.0,False,Not fleeing
+Chaz Logan York,14/10/16,W,23.0,False,Not fleeing
+George Zapata,14/10/16,H,24.0,False,Not fleeing
+Nicholas McWherter,14/10/16,W,26.0,True,Not fleeing
+Daniel Richard Murphy,15/10/16,,38.0,False,Not fleeing
+Micah Dsheigh Jester,16/10/16,W,26.0,True,Not fleeing
+Sean Arlt,16/10/16,W,32.0,True,Not fleeing
+Rolando Delgado,17/10/16,H,50.0,True,Not fleeing
+Keegan Schweikle,17/10/16,W,17.0,True,Foot
+Eric St. Germain,17/10/16,W,39.0,True,Not fleeing
+Darius Wimberly,18/10/16,B,28.0,False,Not fleeing
+Deborah Danner,18/10/16,B,66.0,True,Not fleeing
+Salvador Reyes,18/10/16,H,42.0,False,Not fleeing
+Charles Stidham,18/10/16,W,34.0,False,Not fleeing
+Frank J. Sandor,19/10/16,W,38.0,False,Car
+Anthony Garcia,19/10/16,,24.0,False,Not fleeing
+Javier Munoz,19/10/16,H,28.0,False,Car
+Jacob DePetris,20/10/16,W,29.0,False,Not fleeing
+William Frost,21/10/16,W,58.0,False,
+Renee Davis,21/10/16,N,23.0,True,Not fleeing
+Nathaniel B. Dorough,22/10/16,W,21.0,True,Not fleeing
+Kristofer Daniel Youngquist,23/10/16,W,45.0,False,Not fleeing
+Kenny Tomblin,23/10/16,W,38.0,False,Not fleeing
+Demetrius Mac Moore,23/10/16,B,40.0,False,Not fleeing
+Aaron Marquis Ballard,24/10/16,B,19.0,False,Car
+Roy Lee Richards,25/10/16,B,46.0,False,Not fleeing
+Brandon Jones,25/10/16,W,25.0,True,Not fleeing
+Chelsea M. Porter,25/10/16,W,25.0,False,Not fleeing
+Brandon Millard,25/10/16,W,37.0,True,Not fleeing
+Malcolm Loren Hickson,26/10/16,B,25.0,False,Not fleeing
+William Clifford Cole,26/10/16,W,36.0,False,Not fleeing
+Kyle Killough,27/10/16,W,32.0,True,Not fleeing
+Thad Demarco Hale,27/10/16,B,33.0,False,Not fleeing
+Edwin Amaya Maldonado,27/10/16,H,24.0,False,Foot
+Jay Johannes Holmgren,28/10/16,W,37.0,False,Other
+Jason King,28/10/16,B,38.0,True,Not fleeing
+Jun Wang,28/10/16,A,45.0,True,Not fleeing
+Terrence Coleman,30/10/16,B,31.0,True,Not fleeing
+Kenneth Jack Kennedy,30/10/16,W,34.0,False,Car
+Jordan Gonzales,30/10/16,H,23.0,False,Not fleeing
+Michael Dale Vance Jr.,30/10/16,,38.0,False,Car
+Michelle Lee Shirley,31/10/16,B,39.0,True,Car
+Jose Armando Cueva,31/10/16,H,55.0,False,Not fleeing
+Ashley Sides,31/10/16,W,31.0,False,Other
+Henry Simpson,01/11/16,W,76.0,False,Not fleeing
+Wilton Henry,02/11/16,W,59.0,True,Not fleeing
+Jesse Jay Taylor,02/11/16,W,40.0,False,Other
+Ferguson Laurent,03/11/16,B,23.0,False,Not fleeing
+Dennis Kirk,03/11/16,,64.0,True,Not fleeing
+Rita King,03/11/16,,56.0,False,Not fleeing
+Abraham Ortiz,04/11/16,H,26.0,False,Not fleeing
+Manuel Rosales,04/11/16,H,35.0,True,Other
+John F. Zemola,05/11/16,W,49.0,True,Not fleeing
+James Carl Coale,05/11/16,W,36.0,False,Car
+Russell Elswick,05/11/16,W,56.0,False,Not fleeing
+Edward Lowell Hills,05/11/16,,59.0,False,
+Patrick Wise,05/11/16,W,34.0,False,Other
+David Contreras,06/11/16,H,33.0,False,Not fleeing
+Joel B. Keenan,06/11/16,W,43.0,True,Not fleeing
+Randy J. Clark,06/11/16,W,43.0,False,Car
+Jimmy L. Testa,06/11/16,W,31.0,False,Foot
+Christian Andrew Redwine,06/11/16,W,17.0,False,Car
+Joseph Newcomb,06/11/16,W,32.0,True,Not fleeing
+Darryl Chisholm,07/11/16,B,31.0,False,Other
+Kenton Kobza,08/11/16,W,19.0,False,Car
+Juan Ramos,08/11/16,H,23.0,False,Other
+Evan Cox,08/11/16,W,26.0,False,Car
+Carlos Mendez,08/11/16,H,45.0,False,Not fleeing
+Daniel Erickson,09/11/16,W,36.0,False,Not fleeing
+George Delacruz,10/11/16,H,41.0,False,
+John Pacuicrk,10/11/16,W,53.0,False,Not fleeing
+TK TK,11/11/16,,,False,
+Brian Gaither,11/11/16,W,24.0,False,Car
+Marco Romero,11/11/16,H,,False,Other
+William Ray Score,11/11/16,,47.0,False,Not fleeing
+James Dale Ritchie,12/11/16,W,40.0,False,Not fleeing
+Richard T. Herrera,12/11/16,H,29.0,False,Car
+Jonathan M. Young,13/11/16,,38.0,True,Not fleeing
+Juan Carlos Fernandez,13/11/16,H,22.0,False,Not fleeing
+Daniel Laguna,13/11/16,H,21.0,False,Not fleeing
+Rasheem Singletary,15/11/16,B,25.0,False,Car
+Robert Daffern,15/11/16,W,37.0,False,Not fleeing
+Michael Cookson,15/11/16,,48.0,False,Not fleeing
+Jose George Anthony Franco,16/11/16,H,37.0,False,Not fleeing
+Edmund Leighty,16/11/16,W,56.0,False,Not fleeing
+Joseph Leland Fletcher,18/11/16,W,35.0,True,Not fleeing
+Samson Fleurant,18/11/16,B,25.0,True,Not fleeing
+Dontrell Montrese Carter,18/11/16,B,25.0,False,Not fleeing
+Gabriel Parker,18/11/16,,48.0,True,Not fleeing
+Darius Jones,18/11/16,B,26.0,False,Not fleeing
+Adalid Flores,19/11/16,H,29.0,False,Foot
+Luke Smith,19/11/16,A,15.0,False,Foot
+Steve Dwayne Vananda,19/11/16,,55.0,False,Not fleeing
+Erickson Brito,19/11/16,B,21.0,True,Not fleeing
+Andrew Moreno,20/11/16,H,24.0,False,Not fleeing
+Jacob C. Stevens,20/11/16,W,18.0,False,Foot
+George Bush III,21/11/16,B,19.0,False,Foot
+Michael Giles,21/11/16,W,27.0,True,Foot
+Mark Daniel Sly,22/11/16,H,45.0,False,Not fleeing
+Ivory C. Pantallion,22/11/16,B,36.0,False,Car
+Frank Nathaniel Clark,22/11/16,B,34.0,False,Not fleeing
+Talif Scudder,22/11/16,B,23.0,False,Not fleeing
+William J. Beavers,23/11/16,W,43.0,False,Not fleeing
+David Leroy Thelen,23/11/16,W,43.0,False,Not fleeing
+Kajuan Raye,23/11/16,B,19.0,False,Foot
+Don Fitzgerald White,24/11/16,,45.0,True,Not fleeing
+Cleotha Mitchell,25/11/16,B,37.0,False,
+Jerome Chris Harmon,25/11/16,B,23.0,False,Other
+Carlos Valencia,25/11/16,H,26.0,False,Not fleeing
+Derek Adame,26/11/16,H,20.0,False,Car
+Walter R. Echols,27/11/16,W,50.0,False,Not fleeing
+Norman J. Strobel,27/11/16,W,59.0,False,Not fleeing
+Richard Grimes,27/11/16,B,33.0,False,Foot
+Terrell Walker,27/11/16,B,48.0,False,Not fleeing
+Abdul Razak Ali Artan,28/11/16,O,18.0,False,Not fleeing
+Pablo Renato Cartagena,28/11/16,H,23.0,False,Foot
+Irecas Valentine,28/11/16,B,41.0,False,Car
+Michael McInnis,29/11/16,W,41.0,False,Not fleeing
+Toby Cummins,29/11/16,W,55.0,False,Car
+Bradley King,29/11/16,W,29.0,True,Not fleeing
+Alexander Chance Partain,29/11/16,W,31.0,False,Foot
+David K. Crosby-Dowdy,30/11/16,B,25.0,False,Not fleeing
+"Bruce Randall ""Zeus"" Johnson",01/12/16,B,38.0,False,Not fleeing
+Jose N. Barron Gomez,01/12/16,H,,False,
+Quinton Phillips,01/12/16,W,83.0,False,Not fleeing
+Dylan M. Dalzell,02/12/16,W,22.0,False,Not fleeing
+Derek Lynn Scott,02/12/16,W,33.0,False,Not fleeing
+Josh Dunne,02/12/16,W,36.0,True,Not fleeing
+Isreal Flores,03/12/16,,38.0,False,Foot
+Saif Nasser Mubarek Alameri,04/12/16,A,26.0,False,Foot
+Norman Gary,04/12/16,B,29.0,False,Car
+Richard R. Jones,06/12/16,W,55.0,False,Not fleeing
+Westley Daum,06/12/16,W,47.0,False,Not fleeing
+Steven Wayne Liffel,06/12/16,W,52.0,False,Not fleeing
+Wayne Donald Dorsey,06/12/16,W,49.0,False,Other
+Mark Anthony Hicks,07/12/16,B,31.0,False,Not fleeing
+Keelan Charles Murray,07/12/16,W,37.0,False,
+Redrick Jevon Batiste,07/12/16,B,37.0,False,Not fleeing
+Daniel Riedmann,07/12/16,W,36.0,False,Not fleeing
+Steven Garrett Ward,07/12/16,,20.0,True,Not fleeing
+TK TK,08/12/16,,,False,Not fleeing
+Stephen Joshua Whitney,09/12/16,O,30.0,False,Not fleeing
+Brent Quinn,09/12/16,W,,False,Not fleeing
+Scott MacIntosh,09/12/16,W,35.0,True,Not fleeing
+Waltki Williams,10/12/16,B,35.0,False,Foot
+Samson G. Varner,10/12/16,W,36.0,False,Not fleeing
+Timothy Case,11/12/16,W,53.0,True,Not fleeing
+Randy Lee Cumberledge,11/12/16,W,39.0,False,Not fleeing
+Jose Angel Vallarta,11/12/16,H,30.0,False,Not fleeing
+Amber Lewis,11/12/16,W,44.0,True,Not fleeing
+Gary Leon Herd,11/12/16,W,24.0,False,Not fleeing
+Francisco Serna,12/12/16,H,73.0,False,Not fleeing
+Rainer Tyler Smith,12/12/16,W,31.0,False,Not fleeing
+Kenneth Robledo,12/12/16,B,28.0,False,Not fleeing
+Lavar Montray Douglas,13/12/16,B,18.0,False,Not fleeing
+Earl Labon Eubanks,13/12/16,B,32.0,True,Not fleeing
+Robert James Hess,15/12/16,W,60.0,False,Not fleeing
+Jeremiah N. Anderson,16/12/16,,36.0,False,Not fleeing
+Jimmy Lee Lawson,17/12/16,W,48.0,False,Not fleeing
+Fidel Barrios,17/12/16,H,33.0,False,Not fleeing
+Chassady LeClair,17/12/16,N,44.0,False,Not fleeing
+Ryan Joseph,18/12/16,B,20.0,False,Foot
+Paul Kolar,18/12/16,W,37.0,False,Not fleeing
+Ronald Roy Massengale,18/12/16,W,72.0,True,Not fleeing
+Roy Minton,19/12/16,W,52.0,False,Not fleeing
+Nick Hamilton,20/12/16,,31.0,False,Other
+Martin Gomez,20/12/16,H,46.0,False,Not fleeing
+TK TK,20/12/16,,,True,Not fleeing
+Ian Shea King,21/12/16,,31.0,False,Not fleeing
+Colton Calaway,21/12/16,W,25.0,False,Other
+William Newman,21/12/16,,46.0,False,
+Raymond Salaiz,21/12/16,H,38.0,False,Car
+Benjamin Ortiz,21/12/16,,25.0,True,Not fleeing
+TK TK,21/12/16,,,False,Not fleeing
+Matthew Blake Richardson,21/12/16,W,27.0,False,Not fleeing
+Anthony Lovell Eddington,21/12/16,B,24.0,False,Not fleeing
+Terrence Thomas,22/12/16,B,19.0,False,Not fleeing
+Michael Tyler Jacques,23/12/16,W,31.0,False,Not fleeing
+Stanley Eversol,23/12/16,,55.0,False,Not fleeing
+TK TK,23/12/16,,,False,Car
+Daquan Antonio Westbrook,24/12/16,B,18.0,False,Not fleeing
+Miriam Ann Savino,24/12/16,W,53.0,False,Not fleeing
+TK TK,24/12/16,,,False,Foot
+Zhonghua Li,24/12/16,A,48.0,True,Not fleeing
+Gerald Hall,25/12/16,B,29.0,False,Not fleeing
+James Tylka,25/12/16,W,30.0,True,Car
+Joseph Garcia,25/12/16,,33.0,False,Not fleeing
+Michael Alan Altice,25/12/16,W,61.0,True,Not fleeing
+Dustin Kirk,27/12/16,,35.0,False,Not fleeing
+Judy Boardman,27/12/16,W,71.0,False,Not fleeing
+Alfonso Lopez,27/12/16,H,41.0,False,Not fleeing
+Jake Childers,27/12/16,W,36.0,False,Other
+Christopher Blake Tucker,28/12/16,,28.0,False,Not fleeing
+James L. Rich,29/12/16,,52.0,False,Not fleeing
+Jamal Rollins,30/12/16,B,21.0,False,Car
+TK TK,30/12/16,,,False,Not fleeing
+Dustin Selby,30/12/16,,31.0,False,Foot
+Chase Anthony Tuseth,31/12/16,W,33.0,False,Not fleeing
+Ricky Whidden,31/12/16,W,46.0,True,Not fleeing
+Jason Michael Robison,31/12/16,W,32.0,False,Other
+John McLaughlin,01/01/17,W,42.0,False,Not fleeing
+Trevon Johnson,01/01/17,B,17.0,True,Not fleeing
+James E. Lewis,01/01/17,B,44.0,True,Foot
+Chad Erik Roberts,01/01/17,W,35.0,False,Car
+Juan Carlos Cuadra,01/01/17,H,23.0,False,Foot
+Mark Guirguis,01/01/17,B,21.0,False,Car
+Dale Hightower,03/01/17,W,53.0,True,Not fleeing
+James Owens,03/01/17,B,63.0,True,Not fleeing
+Joshua Martino,04/01/17,W,18.0,False,Foot
+Ruben Randolph,04/01/17,B,51.0,False,Foot
+Welby O'Dell Mullins,04/01/17,W,64.0,False,Not fleeing
+Richard A. Jackson,04/01/17,W,45.0,False,Car
+Luis Vargas,05/01/17,H,20.0,False,Not fleeing
+Randy Wayne Cole,05/01/17,W,41.0,True,Not fleeing
+Sean Ryan Hake,06/01/17,W,23.0,True,Not fleeing
+Jamal Parks,06/01/17,B,32.0,False,Other
+Daniel Scott Giberson,07/01/17,W,25.0,False,Car
+Travis Edward Baker,07/01/17,W,42.0,False,Other
+William Tucker Mathis,07/01/17,W,41.0,True,Not fleeing
+Hector Navarrete,07/01/17,H,31.0,True,Not fleeing
+Carlos A. Cruz,07/01/17,H,50.0,True,Not fleeing
+Gilbert Zambronio-Lovato,07/01/17,H,38.0,False,Not fleeing
+Jason Aldridge,08/01/17,W,44.0,True,Not fleeing
+JR Williams,09/01/17,B,38.0,False,Foot
+Davion Henderson,09/01/17,B,21.0,False,Car
+Michael Rogers,10/01/17,W,32.0,False,Not fleeing
+Darrion Barnhill,10/01/17,B,23.0,False,Not fleeing
+Ronnie Johnson,11/01/17,W,41.0,False,Not fleeing
+Hafez Abousamra,11/01/17,O,41.0,False,Other
+Jose A. Fernandez-Ventura,11/01/17,H,38.0,False,Not fleeing
+Kevin Ernest Tree,12/01/17,W,54.0,True,Not fleeing
+Jamison Christopher Anderson,12/01/17,N,20.0,False,Not fleeing
+Rodney L. Hoback,12/01/17,W,26.0,True,Not fleeing
+Cameron Johnson,13/01/17,O,29.0,False,Car
+Scott Laurance Gilpin,14/01/17,W,47.0,False,Foot
+Jahlire Nicholson,14/01/17,B,28.0,False,Not fleeing
+Eric David Anderson,15/01/17,W,48.0,False,Not fleeing
+Sinuon Pream,15/01/17,A,37.0,True,Not fleeing
+Herbert Johnson,15/01/17,B,34.0,False,Foot
+Dexter Martin Dumarce,15/01/17,W,33.0,False,Foot
+David Wesley Carroll,16/01/17,W,36.0,False,Other
+Charles Christopher McClure,16/01/17,W,43.0,False,Not fleeing
+Mohammad Azim Doudzai,16/01/17,A,32.0,False,Not fleeing
+Christopher Dalton Sexton,17/01/17,W,29.0,True,Car
+Dominic Hodges,17/01/17,H,39.0,False,Not fleeing
+Marlon Joel Rodas-Sanchez,18/01/17,H,16.0,False,Not fleeing
+Stoney McJunkin,18/01/17,W,40.0,False,Not fleeing
+Genevive Dawes,18/01/17,W,21.0,False,Car
+Daniel Darnell Stroughter,18/01/17,W,50.0,False,Car
+Marquis Thomas,18/01/17,B,19.0,False,Car
+Melvin DeLong,18/01/17,N,28.0,False,Not fleeing
+Elijah Smith,19/01/17,W,25.0,True,Not fleeing
+William D. Fisher,19/01/17,W,49.0,True,Not fleeing
+Christopher Garza,19/01/17,H,44.0,False,Foot
+Gino Martin Palazzolo,20/01/17,W,39.0,True,Not fleeing
+Ronnie Lee Shorter,21/01/17,B,44.0,False,Not fleeing
+Paul Carr Palmer,21/01/17,W,50.0,True,Not fleeing
+Jon M. Alspaugh,22/01/17,W,57.0,False,Not fleeing
+Christopher Thompkins,22/01/17,B,57.0,False,Not fleeing
+Jorge Victor,22/01/17,H,33.0,False,Not fleeing
+Angel Ramos,23/01/17,H,21.0,False,Not fleeing
+Gary Mark Wigley,23/01/17,W,52.0,False,Foot
+Daniel D. Rogers,23/01/17,W,27.0,True,Not fleeing
+Bruce Altenburger,23/01/17,W,60.0,True,Not fleeing
+Armond Brown,23/01/17,B,25.0,True,Not fleeing
+Josue Gallardo,24/01/17,H,34.0,False,Not fleeing
+Dakota A. Lukecart,24/01/17,W,22.0,False,Car
+Arties Manning,24/01/17,B,26.0,False,Car
+Antonio Arturo Perez Garcia,24/01/17,H,27.0,False,Other
+Jeremy Lopez-Robledo,24/01/17,H,29.0,True,Foot
+Jonathan David Sper,24/01/17,W,30.0,True,Not fleeing
+Jose Efrain Rodriguez,24/01/17,H,18.0,False,Not fleeing
+Ramon Milanez,24/01/17,H,32.0,False,Car
+Micah R. Lambert,25/01/17,W,37.0,True,Car
+Kevin Darnell Washington,25/01/17,B,54.0,False,Not fleeing
+Donovan Paul Scheurich,25/01/17,W,50.0,True,Not fleeing
+Josue Javier Diaz,26/01/17,H,28.0,False,Car
+Kerry Lee Coomer,26/01/17,W,59.0,True,Not fleeing
+Deaundre Phillips,26/01/17,B,24.0,False,Car
+William Brigham,26/01/17,W,34.0,False,Not fleeing
+Eduardo Hernandez,27/01/17,H,25.0,True,Not fleeing
+Matthew Zank,28/01/17,W,48.0,True,Not fleeing
+Bradley Joseph Szacaks,28/01/17,W,45.0,False,Not fleeing
+Gerardo Coronado,28/01/17,H,25.0,False,Car
+Mi'Chance Dunlap-Gittens,28/01/17,B,17.0,False,Not fleeing
+Val Thomas,29/01/17,,53.0,True,Not fleeing
+Steve Salgado,29/01/17,H,18.0,False,Foot
+Marvin Washington,30/01/17,B,50.0,False,Not fleeing
+Jeremy Dowell,30/01/17,W,36.0,True,Not fleeing
+Refugio Alvarez,30/01/17,H,45.0,True,Not fleeing
+Spencer Herckt,30/01/17,W,42.0,False,Not fleeing
+TK TK,31/01/17,B,,True,Not fleeing
+Tavis Crane,01/02/17,B,23.0,False,Car
+Michael Russo,01/02/17,B,31.0,False,Car
+Miguel Angel Silva,02/02/17,H,18.0,False,Not fleeing
+Kris Kristl,02/02/17,W,26.0,False,Not fleeing
+Michael Sword,02/02/17,W,57.0,False,Not fleeing
+Jose Gonzales Lera,03/02/17,H,27.0,False,Car
+Yia Lee,03/02/17,A,41.0,False,Not fleeing
+William David Whetstone,03/02/17,W,33.0,False,Not fleeing
+Jamake Cason Thomas,03/02/17,B,22.0,False,Car
+Daniel McMasters,03/02/17,W,38.0,False,Not fleeing
+Marco A. Gomez,03/02/17,H,26.0,False,Car
+Daniel Loren Rucker,03/02/17,W,45.0,False,Not fleeing
+Peter Torres,04/02/17,H,23.0,False,Not fleeing
+Johnnie J. Harris,04/02/17,B,68.0,False,Not fleeing
+Thomas Scott Henry,04/02/17,W,56.0,True,Not fleeing
+Nana Adomako,05/02/17,B,45.0,True,Not fleeing
+Shelly Porter,05/02/17,B,41.0,True,Not fleeing
+Andrew Byrd,05/02/17,H,33.0,False,Not fleeing
+Jerome Allen,06/02/17,B,22.0,False,Not fleeing
+Cole Wooley,06/02/17,B,50.0,False,Not fleeing
+Gerardo Vasquez,06/02/17,H,52.0,True,Foot
+Alex Christopher Davis,07/02/17,W,18.0,False,Not fleeing
+Bradley Nelson,07/02/17,W,35.0,True,Car
+Curtis Jamal Deal,07/02/17,B,18.0,False,Other
+Richard Latimer,07/02/17,W,34.0,False,Not fleeing
+Kenneth B. Huntzinger,07/02/17,W,51.0,False,
+Donald Parker,08/02/17,W,29.0,False,Not fleeing
+Henry James Hunter,08/02/17,N,34.0,False,
+Chad Robertson,08/02/17,B,25.0,False,Foot
+Vincent Palma,09/02/17,W,26.0,False,Not fleeing
+Juan Salinas,09/02/17,H,33.0,True,Not fleeing
+Quanice Derrick Hayes,09/02/17,B,17.0,False,Foot
+TK TK,09/02/17,,,False,
+Justin Burton,10/02/17,W,25.0,False,Foot
+Jocques Scott Clemmons,10/02/17,B,31.0,False,Foot
+Kadhar Bailey,10/02/17,W,25.0,False,
+Ambroshia Fagre,10/02/17,W,18.0,False,
+Michelle Robey,10/02/17,W,55.0,True,Not fleeing
+James Stephen McMullen,10/02/17,W,45.0,False,Not fleeing
+Carlos Keith Blackman,10/02/17,B,25.0,False,Other
+Darryl L. Fuqua,10/02/17,B,23.0,False,Foot
+Jason Robert Mendez,11/02/17,W,37.0,False,Not fleeing
+Pekelo Sanchez,11/02/17,A,33.0,False,Car
+Alonzo E. Ashley,11/02/17,B,27.0,False,Not fleeing
+William A. Young,11/02/17,W,32.0,True,Not fleeing
+TK TK,12/02/17,,,False,Other
+Willard Eugene Scott,12/02/17,B,31.0,False,Other
+Bryan Devin Carreno,12/02/17,H,26.0,True,Foot
+Brandon S. Lambert,13/02/17,W,32.0,False,Car
+Drey Krause,13/02/17,W,53.0,False,Not fleeing
+Raynard Burton,13/02/17,B,19.0,False,Other
+Michael Lee Morris,14/02/17,W,53.0,True,Not fleeing
+David Zimmerman,14/02/17,W,35.0,False,Other
+Steven C. Oliger,14/02/17,W,64.0,False,Not fleeing
+Kenneth Lee Bailey,15/02/17,B,24.0,False,Foot
+Andrew McClendon,15/02/17,W,33.0,False,Not fleeing
+Mauro Garnica,15/02/17,H,55.0,False,Not fleeing
+Kadeem Torres,16/02/17,B,17.0,False,Foot
+Joseph Tamayo,16/02/17,H,48.0,False,Not fleeing
+Jimmy Briggs,16/02/17,B,21.0,False,Foot
+Jonathon  Daniel Simmons,16/02/17,,22.0,False,Not fleeing
+Joshua Henry,17/02/17,W,30.0,True,Not fleeing
+David English,17/02/17,W,34.0,True,Not fleeing
+Jean R. Valescot,17/02/17,B,35.0,False,Not fleeing
+Jesse Enjaian,17/02/17,W,32.0,False,Not fleeing
+Chance David Baker,18/02/17,B,22.0,True,Not fleeing
+Keo Crockett,18/02/17,B,46.0,False,Not fleeing
+Christopher Carter,19/02/17,B,27.0,False,Not fleeing
+Sergio Reyes,19/02/17,H,18.0,False,Foot
+Kyle Riggs,19/02/17,W,33.0,False,Not fleeing
+Manuel Encinas,19/02/17,H,26.0,False,Not fleeing
+Jason Fanning,20/02/17,W,27.0,False,Not fleeing
+Taylor Hodge,20/02/17,W,26.0,False,Not fleeing
+Douglas Michael Smith,21/02/17,W,51.0,True,Not fleeing
+Don Clark,21/02/17,B,63.0,False,Not fleeing
+Nicolas Sanchez,21/02/17,H,38.0,False,Not fleeing
+Bartolo Justice Sambrano,21/02/17,H,25.0,False,Not fleeing
+Misael Macias Cano,21/02/17,H,39.0,False,Other
+Medger Blake,22/02/17,B,41.0,False,Not fleeing
+Kyle Copson,22/02/17,W,26.0,True,Not fleeing
+Morgan London Rankins,22/02/17,B,30.0,True,Car
+David Lee Montano,23/02/17,H,33.0,False,Not fleeing
+Kenneth Robertson,23/02/17,,54.0,False,Not fleeing
+Jimmie Patton,23/02/17,W,38.0,False,Not fleeing
+Steven Valenzuela,23/02/17,H,24.0,False,Foot
+Timothy Lionel Williams,23/02/17,B,47.0,False,Foot
+Michael T. Stoudt,24/02/17,W,62.0,False,Not fleeing
+Joey Isgrigg,24/02/17,W,30.0,True,Not fleeing
+Jacqueline Cheyanne Johnson,24/02/17,W,33.0,False,Car
+Lorenzo Antoine Cruz,25/02/17,B,23.0,False,Foot
+William Dwayne Darby,25/02/17,W,39.0,False,Car
+Jacob Taulbee,26/02/17,W,,False,Not fleeing
+Evin Sanna Olsen,26/02/17,W,46.0,False,Car
+Barry Michael Zumwalt,26/02/17,W,36.0,True,Not fleeing
+James Leroy Marker,26/02/17,W,66.0,False,Car
+Joey J. Bridges,27/02/17,W,27.0,True,Foot
+Shawn M. Igers,27/02/17,W,40.0,False,Not fleeing
+Earl Riley,28/02/17,B,25.0,False,Not fleeing
+Christopher Redding,28/02/17,B,20.0,False,Foot
+Jose Olivares,28/02/17,,43.0,True,Not fleeing
+Epthen Lamont Johnson,01/03/17,B,40.0,False,Not fleeing
+John Hall,02/03/17,W,33.0,True,Not fleeing
+Isidro Bazan Jr,02/03/17,H,34.0,False,Not fleeing
+Michael Cisneros,02/03/17,H,27.0,False,Not fleeing
+Rafael Navarro-Garcia,02/03/17,H,25.0,False,
+Ramon Andrade,02/03/17,H,37.0,True,Not fleeing
+Michael Kocher,03/03/17,W,32.0,True,Not fleeing
+Dave Phoenix,03/03/17,N,25.0,False,Not fleeing
+George Lee Seeton,04/03/17,W,38.0,False,Car
+Joseph Scott Inabinet,04/03/17,W,50.0,True,Not fleeing
+Alejandro Valencia Mendez,04/03/17,H,70.0,False,Not fleeing
+Edward Manning,04/03/17,W,26.0,False,Foot
+Roy Dale Evans,07/03/17,W,,False,Car
+Dennis Todd Rogers,07/03/17,B,41.0,False,Not fleeing
+Frank W. Wratny,08/03/17,W,91.0,False,Not fleeing
+TK TK,08/03/17,,,False,Not fleeing
+Iaroslav Mosiiuk,08/03/17,W,25.0,True,Not fleeing
+Jesus Alberto Geney,09/03/17,H,24.0,True,
+Steven Schiltz,09/03/17,W,29.0,True,Not fleeing
+Damon Seitz,10/03/17,W,40.0,True,Not fleeing
+Mark Robert Carlberg,11/03/17,W,51.0,False,Not fleeing
+Brandon Wiley,11/03/17,B,30.0,False,
+Michael Anthony Perez,12/03/17,H,33.0,True,Not fleeing
+Manuel Gonzalez,12/03/17,H,28.0,False,Foot
+Luke O. Stewart,13/03/17,B,23.0,False,
+Noel Aaron Russell,13/03/17,W,23.0,True,Not fleeing
+Rashad Daquan Opher,13/03/17,B,20.0,False,Other
+Christopher Apostolos,14/03/17,W,56.0,True,
+Ryan L. Rosa,14/03/17,W,36.0,False,Not fleeing
+Alexander Meltz,14/03/17,W,18.0,False,Not fleeing
+Shawn Anthony Dumitras,14/03/17,W,43.0,False,
+"Elena ""Ebbie"" Mondragon",14/03/17,H,16.0,False,
+Cordale Quinn Handy,15/03/17,B,29.0,False,Not fleeing
+Todd Munson,15/03/17,W,25.0,False,Car
+Frederick Ricardo Brown,16/03/17,B,34.0,False,Not fleeing
+Jermaine Claybrooks,16/03/17,B,32.0,False,Not fleeing
+Patrick Earl Gatson,16/03/17,B,32.0,False,Not fleeing
+Daniel Donarski,16/03/17,W,58.0,True,Not fleeing
+Rodney James Hess,16/03/17,B,36.0,True,Not fleeing
+Brentant M. Lahey,17/03/17,W,25.0,False,Not fleeing
+Nancy Jane Lewellyn,17/03/17,W,59.0,True,Not fleeing
+Desmond Phillips,17/03/17,B,25.0,True,Not fleeing
+Kevin C. Perry,18/03/17,W,25.0,False,Not fleeing
+Benjamin Christian Barnes,18/03/17,W,42.0,False,Not fleeing
+Jason Dennis Watkins,18/03/17,W,36.0,False,Car
+Clifton Knickmeyer,19/03/17,W,59.0,False,Other
+Alteria Woods,19/03/17,B,21.0,False,Not fleeing
+Trevor Allen Brice Gingras,19/03/17,W,19.0,False,Foot
+Mario Simoes,19/03/17,H,45.0,True,Car
+TK Tk,19/03/17,,,False,Not fleeing
+Charles Harris,22/03/17,W,42.0,False,Not fleeing
+Don Johnson,22/03/17,B,27.0,False,Not fleeing
+Nengmy Vang,22/03/17,A,45.0,False,
+William Stokes,23/03/17,B,,True,Not fleeing
+Eddie Davis,23/03/17,B,42.0,False,Car
+Francisco Valdez,23/03/17,H,24.0,False,Not fleeing
+Reno Joseph Owens,24/03/17,B,39.0,True,Not fleeing
+Austin Tyler Macon,24/03/17,W,18.0,False,Not fleeing
+Matthew Gambaro,24/03/17,H,26.0,False,Foot
+Fred Barragan,25/03/17,H,35.0,False,Foot
+Paul Parienlla,26/03/17,W,53.0,False,Not fleeing
+David Eric Ufferman,26/03/17,W,56.0,True,Not fleeing
+Michael Hornibrook,26/03/17,W,54.0,False,Foot
+Justin Quincy Smith,26/03/17,W,36.0,False,Other
+Steven Hopwood,27/03/17,W,51.0,False,Not fleeing
+Pryor Spencer Bailey,27/03/17,W,45.0,False,Car
+Richard Alexander Tilley,27/03/17,W,28.0,False,Not fleeing
+Peter J. Doffin,28/03/17,W,36.0,False,Car
+Lee Pat Milks,28/03/17,W,73.0,False,Not fleeing
+Daniel Hendrix,29/03/17,W,26.0,False,Not fleeing
+Troy Boyle,29/03/17,W,41.0,False,Car
+Doyle Wayne Johnson,29/03/17,W,59.0,False,Car
+Leroy Brown,29/03/17,B,28.0,False,Car
+Fred Ratliff,29/03/17,W,45.0,False,Not fleeing
+Dennis Wasson,29/03/17,W,27.0,False,Car
+Christopher Angelo Pizzichetta,30/03/17,W,46.0,False,Car
+Marcus Williams,01/04/17,,,False,Foot
+Phosowath Sengphong,01/04/17,A,30.0,False,
+Jose Antonio Hernandez,03/04/17,H,46.0,False,Not fleeing
+Rogelio Vidal Landa,04/04/17,H,47.0,False,Foot
+Michael Maldonado,04/04/17,H,32.0,False,Car
+Stephen Connard Ferry,04/04/17,W,65.0,False,Car
+Michael Alcaraz,05/04/17,H,19.0,False,Car
+Austin Dakota Snyder,05/04/17,W,22.0,False,
+Christopher Wade,06/04/17,B,39.0,True,Not fleeing
+Benjamin Ailstock,06/04/17,W,38.0,True,Not fleeing
+Glenn Watenpool,06/04/17,W,68.0,False,Not fleeing
+Richard Xavier Summers,06/04/17,B,49.0,False,Not fleeing
+Kenneth Francis,06/04/17,B,37.0,False,Not fleeing
+Jeffrey Lynn Curry,07/04/17,A,33.0,False,Car
+Gregory Kever,08/04/17,W,25.0,False,Not fleeing
+Jose Gonzales Rendon,09/04/17,H,36.0,False,Not fleeing
+William Baker,09/04/17,,36.0,False,Not fleeing
+Jeffrey Findlay,10/04/17,W,30.0,False,Not fleeing
+TK TK,10/04/17,,39.0,False,Foot
+Zelalem Eshetu Ewnetu,12/04/17,B,28.0,False,Not fleeing
+Erik Pamias,13/04/17,W,28.0,False,Not fleeing
+Charles Johnston,13/04/17,W,25.0,False,Car
+Thomas Gezotis,13/04/17,,57.0,False,
+Charles Spands,14/04/17,W,35.0,False,Car
+Ivan Wilson,14/04/17,N,24.0,False,Not fleeing
+TK TK,14/04/17,,,True,Not fleeing
+Olugbalah Ridley,15/04/17,B,33.0,False,
+David Airth,15/04/17,W,56.0,False,Not fleeing
+Frederick H. Hall,15/04/17,W,56.0,True,Not fleeing
+Isaiah Murrietta-Golding,15/04/17,H,16.0,False,Not fleeing
+Darren Jahnke,16/04/17,W,47.0,False,Not fleeing
+Michael Zennie Dial II,17/04/17,W,33.0,False,Car
+Casey Desper,18/04/17,W,32.0,False,Car
+Keith Price,19/04/17,B,21.0,False,Other
+Marion Lee Holliday,20/04/17,W,64.0,False,Not fleeing
+Damarius Butts,20/04/17,B,19.0,False,
+Ray Valdez,20/04/17,H,55.0,False,
+Jose Trejo,20/04/17,H,,False,Not fleeing
+Brandon Pequeno,20/04/17,H,25.0,False,Car
+Sariah Marie Lane,20/04/17,W,17.0,False,Car
+Chance Rickie Thompson,21/04/17,W,25.0,True,Not fleeing
+Joseph Sin,22/04/17,A,43.0,False,Foot
+William D. Spates,22/04/17,B,39.0,True,Not fleeing
+Michael Wilson-Salzl,22/04/17,W,24.0,True,Not fleeing
+Wayne Noel Simard,23/04/17,W,70.0,False,Not fleeing
+Daezion Turner,24/04/17,,15.0,False,Not fleeing
+Robert Becker,24/04/17,W,79.0,True,Not fleeing
+Kendell Wilson,24/04/17,B,16.0,False,Foot
+Jacy Kevin McManus,24/04/17,W,35.0,False,Not fleeing
+TK TK,25/04/17,,24.0,False,Car
+Fred Cardenas,25/04/17,H,53.0,True,
+Juan Manuel Avilla,25/04/17,H,20.0,False,Car
+Gavin Williams,25/04/17,B,27.0,False,Not fleeing
+Selwyn Aubrey Hall,26/04/17,B,57.0,False,Not fleeing
+Charles Bossinger,26/04/17,W,53.0,False,
+Jason Thomas Christian,26/04/17,W,32.0,False,Car
+Burgon Sealy,27/04/17,B,26.0,False,Not fleeing
+Tim A. Holmgren,27/04/17,W,53.0,False,Not fleeing
+Avery Richard,28/04/17,B,32.0,False,Not fleeing
+Luis Fernando Pacheco,28/04/17,H,25.0,False,Not fleeing
+Jordan Edwards,29/04/17,B,15.0,False,Not fleeing
+Gene Bernhardt,29/04/17,W,59.0,False,Not fleeing
+Caleb Jackson,29/04/17,B,35.0,False,Not fleeing
+Andrew James Lucero,29/04/17,,33.0,False,Not fleeing
+Devin Hawkins,30/04/17,W,32.0,True,Not fleeing
+Peter Raymond Selis,30/04/17,W,49.0,False,Not fleeing
+James Edward Ray,30/04/17,B,46.0,False,Not fleeing
+Joseph William Alain,01/05/17,W,25.0,False,Not fleeing
+Rodney Henderson,02/05/17,B,48.0,False,Not fleeing
+Jason Sebastian Roque,02/05/17,H,20.0,True,Not fleeing
+TK TK,03/05/17,,,True,Not fleeing
+Mirza Tatlic,03/05/17,W,24.0,True,Not fleeing
+Malik Carey,03/05/17,B,18.0,False,Not fleeing
+William Dean,03/05/17,W,67.0,True,Not fleeing
+Nicholas Flusche,03/05/17,W,26.0,False,Not fleeing
+Lucille Espinosa,04/05/17,,54.0,True,Not fleeing
+Jacob Peterson,06/05/17,W,15.0,True,Not fleeing
+Steven Price,07/05/17,W,62.0,True,Not fleeing
+Landon Nobles,07/05/17,B,24.0,False,Foot
+Cedric Jamal Mifflin,07/05/17,B,27.0,False,Other
+Jose Hernandez-Rossy,07/05/17,H,26.0,False,Foot
+Mikel Laney McIntyre,08/05/17,B,32.0,True,Foot
+Anthony David Soderberg,08/05/17,W,29.0,False,Not fleeing
+Jayson Negron,09/05/17,H,16.0,False,Car
+Terry Percy Campbell,09/05/17,B,25.0,True,Not fleeing
+TK TK,09/05/17,,,False,Not fleeing
+John Bittle,09/05/17,W,39.0,False,Foot
+Scott N. Bloomfield,09/05/17,W,34.0,False,Not fleeing
+Ian Thomas Little,09/05/17,W,36.0,True,Not fleeing
+Terrell Kyreem Johnson,10/05/17,B,24.0,True,Foot
+Robin White,10/05/17,B,50.0,False,Not fleeing
+Jeroen Peter Koornwinder,10/05/17,W,50.0,False,Car
+TK TK,11/05/17,H,,False,Not fleeing
+Ronald Singletary,12/05/17,B,51.0,False,Not fleeing
+Ryan Lowell,12/05/17,W,30.0,True,Not fleeing
+Jonathan David Victor,12/05/17,W,35.0,False,
+Phillip O'Shea,12/05/17,W,46.0,False,Car
+Maxwell Holt,13/05/17,W,37.0,False,Foot
+Clarence E. Coats,13/05/17,B,41.0,False,
+David Jay Juarez,14/05/17,H,41.0,False,Car
+James A. Burton,14/05/17,W,48.0,True,Not fleeing
+Jonie Block,15/05/17,B,27.0,False,Not fleeing
+Jaison Fitzgerald,15/05/17,B,29.0,False,Not fleeing
+Buford Shane Whitson,15/05/17,W,47.0,True,Other
+TK TK,15/05/17,,,False,Other
+Emmanuel Ibarra,15/05/17,,34.0,False,Foot
+Keith Andrew Chesser,15/05/17,W,48.0,False,Not fleeing
+Isabelle Duval,16/05/17,W,41.0,False,Not fleeing
+TK TK,16/05/17,,25.0,False,
+Edwin Fuentes,16/05/17,H,24.0,True,Not fleeing
+Marshall Barrus,16/05/17,W,38.0,False,Car
+Daniel George Boak,17/05/17,W,28.0,False,Car
+Anthony Paul Ardo,20/05/17,W,47.0,True,Not fleeing
+Roger Bubar,20/05/17,W,65.0,False,Not fleeing
+Shannon Edward Estill,20/05/17,W,58.0,True,Not fleeing
+Jimmie Montel Sanders,21/05/17,B,33.0,False,Not fleeing
+Joseph M. Hodgin,21/05/17,W,43.0,False,Car
+Ricco Devante Holden,21/05/17,B,24.0,False,Not fleeing
+Carlos Garcia Petrovich,21/05/17,H,37.0,False,Not fleeing
+Aaron M. Thompson,22/05/17,W,,False,Not fleeing
+Jorge Alberto Fuentes,23/05/17,H,21.0,False,Other
+Michael Anthony Bonini,23/05/17,W,65.0,False,Not fleeing
+John Eno,23/05/17,W,59.0,False,Not fleeing
+Albert Gagnier,23/05/17,W,74.0,False,Not fleeing
+Hayden J. Stutz,24/05/17,W,24.0,True,Not fleeing
+TK TK,24/05/17,H,,False,Not fleeing
+Shawn Buck,25/05/17,W,23.0,False,Car
+Hector Gamboa,26/05/17,H,59.0,False,Not fleeing
+Jamie J. Robinson,26/05/17,,33.0,True,Not fleeing
+Joseph Zimmerman,26/05/17,W,34.0,True,Not fleeing
+Ron Harlan Lewallen,27/05/17,W,30.0,False,Car
+Eduardo Valencia,27/05/17,,,False,Not fleeing
+TK TK,28/05/17,,,False,Car
+Shaquian Tyrone Johnson,28/05/17,B,22.0,False,Not fleeing
+Francis de la Cruz,28/05/17,,35.0,True,Not fleeing
+Chad Dionne,29/05/17,W,37.0,False,Not fleeing
+Joseph Godinez,29/05/17,H,20.0,False,Car
+Larry Warren Kipps,29/05/17,,62.0,True,Not fleeing
+Roman Jade Carrillo,30/05/17,H,18.0,False,Car
+James Gleason,31/05/17,W,24.0,False,
+James Daniel Hill,31/05/17,W,17.0,False,Other
+Francisco Suarez-Madonado,01/06/17,H,27.0,True,Not fleeing
+Edward Everett Courtenay,02/06/17,W,51.0,False,Car
+Charles Darnell Baker,02/06/17,B,29.0,False,Not fleeing
+Marc Brandon Davis,02/06/17,B,34.0,False,Not fleeing
+Naway Willy,02/06/17,A,18.0,False,Foot
+Corsean Lewis,02/06/17,B,17.0,False,Not fleeing
+Antonio Gerardo Rodriguez,02/06/17,H,55.0,False,Not fleeing
+Donald Lee Cramer,03/06/17,W,44.0,False,Not fleeing
+Jeremy Austin Lindsey,04/06/17,W,27.0,False,
+Bruce Dawley,04/06/17,W,66.0,True,Not fleeing
+Charles Edgar Mullins,05/06/17,W,45.0,False,Car
+John Spaulding,05/06/17,B,47.0,False,
+Quentin Louis Case,05/06/17,W,34.0,False,Other
+Adrian Maurice Hardeman,05/06/17,B,37.0,False,
+Mark Ellis,06/06/17,W,54.0,False,Not fleeing
+David W. Hamilton,06/06/17,,50.0,False,Car
+Salvadro Alfredo Pablo Lopez,07/06/17,H,21.0,False,
+Isaiah M. Hammett,07/06/17,W,21.0,False,Not fleeing
+Blaine Robert Erb,07/06/17,W,35.0,False,Not fleeing
+Donald Smith,07/06/17,W,75.0,True,
+Michele Rice,08/06/17,W,,False,Not fleeing
+Oscar Junior,08/06/17,H,45.0,False,Not fleeing
+David Jones,08/06/17,B,30.0,False,Foot
+Stephen Rich,08/06/17,W,48.0,False,
+Paul Mashburn,08/06/17,W,58.0,True,Not fleeing
+Joshua Barre,09/06/17,B,29.0,True,Not fleeing
+Antonio Juarez,09/06/17,H,44.0,False,Car
+Theodore Brendecke,09/06/17,W,82.0,True,
+TK TK,10/06/17,,,False,Car
+Robin Blaylock,10/06/17,W,53.0,False,Not fleeing
+Emmett Edward Hall,10/06/17,W,60.0,True,Not fleeing
+Terry Williams,11/06/17,B,19.0,False,Car
+Johnny Platas,12/06/17,H,45.0,False,Not fleeing
+Eleuterio Amaya-Torres,12/06/17,H,63.0,False,Not fleeing
+John Wesley Bays,12/06/17,W,50.0,False,Not fleeing
+Avery D. Metrejean,12/06/17,W,35.0,False,Not fleeing
+Austin Durham,13/06/17,W,24.0,False,Foot
+Barry Jones,13/06/17,W,36.0,False,Not fleeing
+Jordan Frazier,13/06/17,B,35.0,False,Not fleeing
+Chazz Brown,13/06/17,B,33.0,False,Not fleeing
+Tommy Le,14/06/17,A,20.0,False,Not fleeing
+James T. Hodgkinson,14/06/17,W,66.0,False,Not fleeing
+Michael Morris,14/06/17,W,54.0,True,Not fleeing
+Michael Brown,15/06/17,W,40.0,False,Car
+Robert J. Berube,16/06/17,W,41.0,False,Car
+Hector Cisneros Soria,16/06/17,,30.0,False,Not fleeing
+Sergio Valdovinos,16/06/17,H,32.0,True,Not fleeing
+Jamie Dougan,16/06/17,,24.0,False,Car
+Nathan Banks,16/06/17,W,37.0,False,Foot
+TK TK,17/06/17,,28.0,False,Not fleeing
+Joseph Paul Hogan,17/06/17,,48.0,False,Not fleeing
+Charleena Lyles,18/06/17,B,30.0,True,Not fleeing
+William Webster,18/06/17,W,64.0,True,Not fleeing
+Matthew Colton Stover,19/06/17,N,21.0,True,Foot
+Alton Folmar,19/06/17,W,28.0,False,Not fleeing
+TK TK,20/06/17,,,False,Not fleeing
+TK TK,20/06/17,,,False,Other
+David Bryan Creson,20/06/17,W,40.0,False,Car
+Jacob Faulkner,20/06/17,W,32.0,True,Other
+Robb Stewart,20/06/17,W,50.0,True,Not fleeing
+Brandon D. Lukenbill,21/06/17,W,33.0,False,Car
+Daniel Francisco Valenzuela,21/06/17,,37.0,False,Not fleeing
+Armando Garcia-Muro,22/06/17,H,17.0,False,Not fleeing
+Santino Trevino,23/06/17,,20.0,False,Not fleeing
+Jesus Ramon Deltoro,23/06/17,H,34.0,False,Car
+Cameron Ollman,24/06/17,W,37.0,True,Car
+Christopher Michael Murray,24/06/17,,,False,Not fleeing
+Jimmie Bevenue,24/06/17,W,47.0,False,Foot
+Giovonn Joseph-McDade,24/06/17,B,20.0,False,Car
+Lawrence Heyward Jr.,25/06/17,B,56.0,False,Foot
+Deveonte Johnson,25/06/17,B,24.0,False,Not fleeing
+Nicholas Johnston,25/06/17,W,47.0,False,Not fleeing
+TK TK,25/06/17,,,False,Not fleeing
+Rip Huntington,26/06/17,,36.0,True,Not fleeing
+Jason Magana Herrera,27/06/17,,35.0,False,Foot
+TK TK,28/06/17,,,True,Not fleeing
+Rodney L. Cole,28/06/17,B,37.0,False,Not fleeing
+Aaron Bailey,29/06/17,B,45.0,False,Car
+TK TK,29/06/17,,,False,Not fleeing
+Joel Gatu Muturi,29/06/17,,23.0,False,Not fleeing
+Jose Guillermo Flores Colon,29/06/17,,37.0,False,Not fleeing
+TK TK,30/06/17,,,False,Car
+Chet Knuppel,30/06/17,,23.0,False,Foot
+Brett Rodriguez,30/06/17,H,33.0,False,Foot
+Patrick Sanchez,01/07/17,H,23.0,False,Not fleeing
+Quintec Locke,01/07/17,B,37.0,False,Not fleeing
+Jeremy Holmes,01/07/17,,19.0,False,
+TK TK,02/07/17,,,False,Not fleeing
+Daniel Craven,03/07/17,,53.0,False,Not fleeing
+TK TK,03/07/17,,,True,Not fleeing
+TK TK,03/07/17,,,False,Foot
+Christopher Henry Cashell,03/07/17,,45.0,False,Not fleeing
+TK TK,04/07/17,,,False,Not fleeing
+Miguel Gonzales,04/07/17,,28.0,False,Other
+Dana Dubose,04/07/17,B,36.0,False,Not fleeing
+Cody Ray McCray,04/07/17,,32.0,True,Car
+Donald Martin,04/07/17,,39.0,True,Not fleeing
+Douglas West,04/07/17,,46.0,False,Not fleeing
+Alexander Bonds,05/07/17,B,34.0,False,Foot
+Tiffany Lynn Potter,05/07/17,W,29.0,False,Foot
+"Edwin ""Beanie"" Esker",05/07/17,,53.0,False,Not fleeing
+Jamie Huskey,05/07/17,W,45.0,False,Not fleeing
+TK TK,05/07/17,H,24.0,False,Foot
+Carroll Tuttle,05/07/17,W,51.0,False,
+Jesus Cervantes,06/07/17,,35.0,False,Car
+Dejuan Guillory,06/07/17,,27.0,False,
+Brian Easley,07/07/17,B,33.0,True,Not fleeing
+TK TK,07/07/17,,,False,Car
+Kareem Ali Nadir Jones,07/07/17,,30.0,False,Not fleeing
+Michael Anthony Rude,08/07/17,,22.0,True,Not fleeing
+TK TK,08/07/17,,,True,Not fleeing
+Tina Medlin,08/07/17,W,50.0,False,Not fleeing
+Ryan A. Probst,09/07/17,,28.0,False,Not fleeing
+Robert Yeiser,09/07/17,,34.0,False,Not fleeing
+Brayant Alvarez,09/07/17,,24.0,False,Foot
+Edward Taylor,09/07/17,,54.0,False,Not fleeing
+Codey Ethan Mitchell,10/07/17,,26.0,False,Not fleeing
+Gregory Shawn Thrower,10/07/17,,39.0,False,Car
+Randy Engstrom,11/07/17,W,34.0,True,Car
+Caleb Edward Blaylock,11/07/17,,27.0,True,
+Steve Scott,11/07/17,,48.0,False,Not fleeing
+Antonio Garcia Jr.,11/07/17,B,47.0,False,Not fleeing
+TK TK,11/07/17,,,False,Foot
+Dorsey Glenn Taulbee Jr.,12/07/17,,33.0,False,Not fleeing
+James Gerald Davis,12/07/17,,40.0,False,
+TK TK,12/07/17,,,False,Not fleeing
+Chancey Chamblee,13/07/17,W,55.0,False,
+Stephen Steele,13/07/17,,56.0,True,Not fleeing
+Pedro Rubio,13/07/17,,42.0,False,Not fleeing
+Ramiro Bravo Ramirez,14/07/17,,34.0,False,Not fleeing
+Gerber Dieguez,15/07/17,,29.0,False,Foot
+Justine Damond,15/07/17,W,40.0,False,Not fleeing
+TK TK,15/07/17,,23.0,True,Not fleeing
+TK TK,15/07/17,,,False,Foot
+India N. Nelson,17/07/17,,25.0,False,Not fleeing
+Ernesto Sedillo,17/07/17,,52.0,False,Not fleeing
+Eric Wesley Clark,17/07/17,,43.0,False,Car
+Jose Cazares,17/07/17,H,37.0,False,Not fleeing
+Daniel Thomas Reid,18/07/17,W,32.0,False,Not fleeing
+Robert Earl Vaughan,18/07/17,,70.0,True,Not fleeing
+Mark Allan Smith,18/07/17,,36.0,False,Not fleeing
+TK TK,19/07/17,,24.0,False,Not fleeing
+Anthony Benavidez,19/07/17,,24.0,False,Not fleeing
+Farhad Jabbari,19/07/17,,38.0,False,Not fleeing
+Joshua Daniels,20/07/17,W,52.0,False,Not fleeing
+Isaiah Perkins,20/07/17,B,27.0,False,Car
+Yahir Breito,21/07/17,,22.0,False,Not fleeing
+Vicente Velasquez,21/07/17,,42.0,False,Foot
+Walter Lynde,23/07/17,W,49.0,False,Car
+Michael Caponigro,23/07/17,W,59.0,True,Not fleeing
+Ismael Lopez Rodriguez,23/07/17,H,41.0,False,Not fleeing
+Kyle Scott Rushing,23/07/17,W,34.0,False,Not fleeing
+Jerrod Kershaw,24/07/17,W,31.0,True,Car
+Alexander J. Schoessel,25/07/17,W,23.0,True,Foot
+Michael Joseph Harris,25/07/17,W,28.0,False,Car
+Moises Balladares,25/07/17,,33.0,True,Not fleeing
+Aries Clark,25/07/17,B,16.0,False,Not fleeing
+TK TK,26/07/17,,35.0,False,Other
+TK TK,26/07/17,,,False,Not fleeing
+Susan Teel,26/07/17,,62.0,True,Not fleeing
+Kesharn K. Burney,26/07/17,B,25.0,False,Car
+Jerauld Phillip Hammond II,27/07/17,,46.0,False,Not fleeing
+Deltra Henderson,27/07/17,B,39.0,False,Car
+Sergio Velasco-Martinez,27/07/17,,25.0,False,Not fleeing
+Matthew Folden,27/07/17,,31.0,False,Not fleeing
+Alejandro Alvarado,27/07/17,H,,False,Not fleeing
+Brian J. Skinner,28/07/17,,32.0,True,Not fleeing
+Rodney E. Jacobs,28/07/17,,31.0,False,Not fleeing
+TK TK,28/07/17,,,False,Car
+Dennis W. Robinson,29/07/17,,48.0,False,Car
+Isaiah Tucker,31/07/17,B,28.0,False,Car
+Dwayne Jeune,31/07/17,B,32.0,True,Not fleeing
